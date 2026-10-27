@@ -42,6 +42,15 @@ export function CookieBanner() {
   }, []);
 
   useEffect(() => {
+    if (!open) return;
+    function onKey(event: KeyboardEvent) {
+      if (event.key === "Escape") setOpen(false);
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [open]);
+
+  useEffect(() => {
     if (!consent?.analytics) return;
     if (document.querySelector(`script[data-ga="${GA_ID}"]`)) return;
     const script = document.createElement("script");
@@ -89,6 +98,7 @@ export function CookieBanner() {
           <div
             className="modal"
             role="dialog"
+            aria-modal="true"
             aria-labelledby="cookie-title"
             onClick={(event) => event.stopPropagation()}
           >
@@ -106,10 +116,11 @@ export function CookieBanner() {
             </div>
             <div className="cookie-cat">
               <div>
-                <strong>{t.cookieAnalytics}</strong>
+                <strong id="cookie-analytics">{t.cookieAnalytics}</strong>
                 <p>{t.cookieAnalyticsBody}</p>
               </div>
               <label>
+                <span className="sr">{t.cookieAnalytics}</span>
                 <input type="checkbox" checked={analytics} onChange={(event) => setAnalytics(event.target.checked)} />
               </label>
             </div>

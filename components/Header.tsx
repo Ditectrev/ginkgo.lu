@@ -38,6 +38,15 @@ export function Header() {
     setServicesOpen(false);
   }, [pathname]);
 
+  useEffect(() => {
+    if (!searchOpen) return;
+    function onKey(event: KeyboardEvent) {
+      if (event.key === "Escape") setSearchOpen(false);
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [searchOpen]);
+
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
     if (q.length < 2) return [];
@@ -68,6 +77,7 @@ export function Header() {
             </div>
           </details>
           <div className="top-actions">
+            <ThemeToggle label={t.theme} light={t.themeLight} dark={t.themeDark} />
             <button className="icon-btn" type="button" aria-label={t.searchOpen} onClick={() => setSearchOpen(true)}>
               <SearchIcon />
             </button>
@@ -126,7 +136,15 @@ export function Header() {
         </div>
       </div>
       {searchOpen ? (
-        <div className="search-dialog" role="dialog" aria-label={t.searchOpen}>
+        <div
+          className="search-dialog"
+          role="dialog"
+          aria-modal="true"
+          aria-label={t.searchOpen}
+          onMouseDown={(event) => {
+            if (event.target === event.currentTarget) setSearchOpen(false);
+          }}
+        >
           <div className="search-panel">
             <input
               autoFocus
@@ -153,6 +171,60 @@ export function Header() {
         </div>
       ) : null}
     </header>
+  );
+}
+
+function ThemeToggle({ label, light, dark }: { label: string; light: string; dark: string }) {
+  useEffect(() => {
+    const root = document.documentElement;
+    if (root.getAttribute("data-theme")) return;
+    try {
+      const stored = localStorage.getItem("ginkgo-theme");
+      root.setAttribute("data-theme", stored === "light" || stored === "dark" ? stored : "system");
+    } catch {
+      root.setAttribute("data-theme", "system");
+    }
+  }, []);
+
+  function toggle() {
+    const root = document.documentElement;
+    const choice = root.getAttribute("data-theme");
+    const systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const resolvedDark = choice === "dark" || ((choice === "system" || !choice) && systemDark);
+    const next = resolvedDark ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try {
+      localStorage.setItem("ginkgo-theme", next);
+    } catch {
+      /* storage unavailable */
+    }
+  }
+
+  return (
+    <button className="icon-btn theme-btn" type="button" onClick={toggle}>
+      <SunIcon className="when-light" />
+      <MoonIcon className="when-dark" />
+      <span className="sr">{label}</span>
+      <span className="when-light">{light}</span>
+      <span className="when-dark">{dark}</span>
+    </button>
+  );
+}
+
+function SunIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" strokeWidth="2" />
+      <path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M19.1 4.9l-1.4 1.4M6.3 17.7l-1.4 1.4" stroke="currentColor" strokeWidth="2" />
+    </svg>
+  );
+}
+
+function MoonIcon({ className }: { className?: string }) {
+  return (
+    <svg className={className} width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M21 14.5A8.5 8.5 0 1 1 9.5 3 7 7 0 0 0 21 14.5z" fill="none" stroke="currentColor" strokeWidth="2" />
+    </svg>
   );
 }
 

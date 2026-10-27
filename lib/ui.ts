@@ -17,6 +17,9 @@ export const ui = {
     searchEmpty: "Aucun résultat.",
     menu: "Menu",
     menuClose: "Fermer le menu",
+    theme: "Thème",
+    themeLight: "Clair",
+    themeDark: "Sombre",
     langLabel: "Langue",
     nav: [
       { href: "/#accueil", label: "Accueil" },
@@ -138,6 +141,9 @@ export const ui = {
     searchEmpty: "No results.",
     menu: "Menu",
     menuClose: "Close menu",
+    theme: "Theme",
+    themeLight: "Light",
+    themeDark: "Dark",
     langLabel: "Language",
     nav: [
       { href: "/en/#accueil", label: "Home" },

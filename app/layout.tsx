@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Poppins, Roboto } from "next/font/google";
+import Script from "next/script";
 import { ContactSection } from "@/components/ContactSection";
 import { CookieBanner } from "@/components/CookieBanner";
 import { Footer } from "@/components/Footer";
@@ -29,8 +30,11 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="fr" className={`${roboto.variable} ${poppins.variable}`}>
+    <html lang="fr" className={`${roboto.variable} ${poppins.variable}`} suppressHydrationWarning>
       <body>
+        <Script id="theme-init" strategy="beforeInteractive">
+          {`try{var stored=localStorage.getItem("ginkgo-theme");document.documentElement.setAttribute("data-theme",stored==="light"||stored==="dark"?stored:"system");}catch(e){document.documentElement.setAttribute("data-theme","system");}`}
+        </Script>
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
         <LangAttr />
         <SkipLink />
