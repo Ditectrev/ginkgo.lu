@@ -116,7 +116,7 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-anchor: none; }
 body {
   margin: 0;
   color: var(--ink);
@@ -494,6 +494,69 @@ html.has-cookie body { padding-bottom: 8.5rem; }
   border: 1px solid var(--line);
 }
 .timeline strong { color: var(--green); font-size: 1.05rem; }
+.history-section { padding: 0.5rem 0 2.5rem; }
+.history-section h2 { margin: 0.4rem 0 0; }
+.history-board {
+  position: relative;
+  display: grid;
+  gap: 2.4rem;
+  margin-top: 1.6rem;
+}
+.history-path {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 50%;
+  height: 100%;
+  width: auto;
+  max-width: none;
+  transform: translateX(-42%);
+  pointer-events: none;
+}
+.history-row {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  gap: 1rem 1.25rem;
+  align-items: start;
+}
+.history-row.years-top { grid-template-columns: minmax(0, 1.35fr) minmax(9rem, 0.7fr) minmax(9rem, 0.7fr); }
+.history-row.year-mid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(9rem, 0.72fr); }
+.history-row.years-photo { grid-template-columns: minmax(9rem, 0.7fr) minmax(9rem, 0.7fr) minmax(0, 1.35fr); }
+.history-row.photo-year-photo { grid-template-columns: minmax(0, 1fr) minmax(9rem, 0.85fr) minmax(0, 1fr); }
+.history-row.years-only {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  width: min(100%, 46rem);
+  margin-left: auto;
+}
+.history-card {
+  background: var(--paper);
+  border-radius: 0.35rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
+  padding: 0.65rem 0.8rem 0.8rem;
+}
+.history-card strong {
+  display: block;
+  color: var(--green);
+  font-family: var(--font-poppins), "Segoe UI", sans-serif;
+  font-size: clamp(1.7rem, 3vw, 2.5rem);
+  font-weight: 600;
+  line-height: 1.05;
+}
+.history-card p { margin: 0.35rem 0 0; font-size: 0.95rem; line-height: 1.3; }
+.history-photo {
+  display: block;
+  background: #fff;
+  border-radius: 0.35rem;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
+}
+.history-photo img { display: block; width: 100%; height: auto; }
+.history-row .shift-mid { margin-top: 2.4rem; }
+.history-row .shift-low { margin-top: 5rem; }
+.history-row .shift-up { margin-top: -0.8rem; }
+.history-credit { margin-top: 1.4rem; text-align: right; color: var(--muted); font-size: 0.95rem; }
+.history-credit p { margin: 0; }
 .prose table { width: 100%; border-collapse: collapse; margin: 1rem 0; background: var(--paper); color: var(--ink); }
 .prose th, .prose td { border: 1px solid var(--line); padding: 0.55rem 0.7rem; text-align: left; vertical-align: top; }
 .prose ul { padding-left: 1.2rem; }
@@ -652,6 +715,19 @@ html.has-cookie body { padding-bottom: 8.5rem; }
 @media (max-width: 980px) {
   html.has-cookie body { padding-bottom: 18rem; }
   .hero, .article, .contact-grid, .footer-grid, .features, .cards { grid-template-columns: 1fr; }
+  .history-path { display: none; }
+  .history-row.years-top,
+  .history-row.year-mid,
+  .history-row.years-photo,
+  .history-row.photo-year-photo,
+  .history-row.years-only {
+    grid-template-columns: 1fr;
+    width: auto;
+    margin-left: 0;
+  }
+  .history-row .shift-mid,
+  .history-row .shift-low,
+  .history-row .shift-up { margin-top: 0; }
   .burger { display: inline-flex; }
   .nav {
     display: none;

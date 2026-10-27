@@ -38,12 +38,7 @@ export function Footer() {
               <img src="/media/instagram-transp-social-media.svg" alt="instagram" />
             </a>
           </div>
-          <p className="copyright">
-            © {year} Pharmacie Ginkgo |{" "}
-            <a href="https://done.lu" target="_blank" rel="noopener noreferrer">
-              {t.credit}
-            </a>
-          </p>
+          <p className="copyright">© {year} Pharmacie Ginkgo</p>
         </div>
       </div>
     </footer>

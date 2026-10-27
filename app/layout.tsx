@@ -5,6 +5,7 @@ import { ContactSection } from "@/components/ContactSection";
 import { CookieBanner } from "@/components/CookieBanner";
 import { Footer } from "@/components/Footer";
 import { Header, LangAttr, SkipLink } from "@/components/Header";
+import { ScrollToTop } from "@/components/ScrollToTop";
 import "./globals.css";
 
 const roboto = Roboto({
@@ -36,6 +37,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {`try{var stored=localStorage.getItem("ginkgo-theme");document.documentElement.setAttribute("data-theme",stored==="light"||stored==="dark"?stored:"system");}catch(e){document.documentElement.setAttribute("data-theme","system");}`}
         </Script>
         <script dangerouslySetInnerHTML={{ __html: "document.documentElement.classList.add('js')" }} />
+        <ScrollToTop />
         <LangAttr />
         <SkipLink />
         <Header />

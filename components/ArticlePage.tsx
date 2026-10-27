@@ -1,7 +1,22 @@
 import type { ReactNode } from "react";
 import Link from "next/link";
-import { imageAlt, stripHtml, type Block, type Page } from "@/lib/content";
+import { imageAlt, stripHtml, type Block, type Page, type PageImage } from "@/lib/content";
+import { HistoryTimeline, type HistoryItem } from "@/components/HistoryTimeline";
 import { Html } from "@/components/Html";
+
+const TIMELINE_FILES = new Set([
+  "Path-45.png",
+  "Group-175.png",
+  "Group-176.png",
+  "Group-177.png",
+  "Group-178.png",
+  "Group-179.png",
+  "Group-180.png",
+]);
+
+function isTimelineImage(image: PageImage) {
+  return TIMELINE_FILES.has(image.local.split("/").pop() ?? "");
+}
 
 function headingId(html: string) {
   const text = stripHtml(html).toLowerCase();
@@ -9,10 +24,7 @@ function headingId(html: string) {
   return undefined;
 }
 
-export function ArticlePage({ page }: { page: Page }) {
-  const blocks = page.blocks.filter((block, index) => !(index === 0 && block.type === "h1"));
-  const title = page.blocks.find((block) => block.type === "h1");
-  const [featured, ...gallery] = page.images;
+function renderBlocks(blocks: Block[]) {
   const nodes: ReactNode[] = [];
 
   for (let index = 0; index < blocks.length; index += 1) {
@@ -84,13 +96,48 @@ export function ArticlePage({ page }: { page: Page }) {
     nodes.push(<Html key={`${block.type}-${index}`} as={tag} id={headingId(block.html)} html={block.html} />);
   }
 
+  return nodes;
+}
+
+export function ArticlePage({ page }: { page: Page }) {
+  const blocks = page.blocks.filter((block, index) => !(index === 0 && block.type === "h1"));
+  const title = page.blocks.find((block) => block.type === "h1");
+  const contentImages = page.images.filter((image) => !isTimelineImage(image));
+  const [featured, ...gallery] = contentImages;
+  const historyIndex = blocks.findIndex((block) => "html" in block && headingId(block.html) === "history");
+  const proseBlocks = historyIndex === -1 ? blocks : blocks.slice(0, historyIndex);
+  const historyBlocks = historyIndex === -1 ? [] : blocks.slice(historyIndex);
+  const historyHeading = historyBlocks[0];
+  const historyItems: HistoryItem[] = [];
+  let afterHistory = 0;
+  for (let index = 1; index < historyBlocks.length; index += 1) {
+    const block = historyBlocks[index];
+    if (block.type !== "h5") {
+      afterHistory = index;
+      break;
+    }
+    const paras: string[] = [];
+    index += 1;
+    while (index < historyBlocks.length && historyBlocks[index]?.type === "p") {
+      const para = historyBlocks[index];
+      if (!para || !("html" in para)) break;
+      if (/copyright/i.test(stripHtml(para.html))) break;
+      paras.push(para.html);
+      index += 1;
+    }
+    index -= 1;
+    if ("html" in block) historyItems.push({ year: block.html, paras });
+    afterHistory = index + 1;
+  }
+  const trailing = historyBlocks.slice(afterHistory);
+
   return (
     <article className="wrap">
       <header className="page-hero">
         {title && title.type !== "cta" && title.type !== "list" ? <Html as="h1" html={title.html} /> : null}
       </header>
       <div className={featured ? "article" : "article solo"}>
-        <div className="prose">{nodes}</div>
+        <div className="prose">{renderBlocks(proseBlocks)}</div>
         {featured ? (
           <aside>
             <img className="feature-photo" src={featured.local} alt={imageAlt(featured)} />
@@ -106,6 +153,17 @@ export function ArticlePage({ page }: { page: Page }) {
           </aside>
         ) : null}
       </div>
+      {historyHeading && "html" in historyHeading ? (
+        <section className="history-section" id="history" aria-labelledby="history-title">
+          <Html as="h2" id="history-title" html={historyHeading.html} />
+          <HistoryTimeline items={historyItems} images={page.images} />
+          {trailing.some((block) => "html" in block && /copyright/i.test(stripHtml(block.html))) ? (
+            <div className="history-credit">{renderBlocks(trailing)}</div>
+          ) : (
+            renderBlocks(trailing)
+          )}
+        </section>
+      ) : null}
     </article>
   );
 }
