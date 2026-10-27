@@ -1,0 +1,3800 @@
+{
+  "alternates": {
+    "/": "/en",
+    "/en": "/",
+    "/a-propos": "/en/about-us",
+    "/en/about-us": "/a-propos",
+    "/envoyez-votre-prescription": "/en/send-your-prescription",
+    "/en/send-your-prescription": "/envoyez-votre-prescription",
+    "/services": "/en/services",
+    "/en/services": "/services",
+    "/services/compression-medicale": "/en/services/medical-compression",
+    "/en/services/medical-compression": "/services/compression-medicale",
+    "/services/blisterisation-de-medicaments": "/en/services/blistering-of-medicines",
+    "/en/services/blistering-of-medicines": "/services/blisterisation-de-medicaments",
+    "/services/location-de-tire-lait-a-luxembourg": "/en/services/breast-pump-rental-in-luxembourg",
+    "/en/services/breast-pump-rental-in-luxembourg": "/services/location-de-tire-lait-a-luxembourg",
+    "/services/prevention-neuropathie": "/en/services/prevention-of-neuropathy",
+    "/en/services/prevention-of-neuropathy": "/services/prevention-neuropathie",
+    "/services/pharmacie-conseil-pour-personnes-asthmatiques": "/en/services/pharmacy-advice-for-people-with-asthma",
+    "/en/services/pharmacy-advice-for-people-with-asthma": "/services/pharmacie-conseil-pour-personnes-asthmatiques",
+    "/services/nutritherapie": "/en/services/nutritherapy",
+    "/en/services/nutritherapy": "/services/nutritherapie",
+    "/services/preparation-magistrale": "/en/services/magistral-preparation",
+    "/en/services/magistral-preparation": "/services/preparation-magistrale",
+    "/services/parapharmacie": "/en/services/parapharmacy",
+    "/en/services/parapharmacy": "/services/parapharmacie",
+    "/politique-de-confidentialite": "/en/privacy-policy",
+    "/en/privacy-policy": "/politique-de-confidentialite",
+    "/conditions-generales": "/en/general-conditions",
+    "/en/general-conditions": "/conditions-generales",
+    "/disclaimer": "/en/disclaimer",
+    "/en/disclaimer": "/disclaimer",
+    "/politique-en-matiere-de-cookies": "/en/cookie-policy",
+    "/en/cookie-policy": "/politique-en-matiere-de-cookies"
+  },
+  "localAssets": {
+    "/media/Group-91.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Group-91.png",
+    "/media/Icon-awesome-parking.svg": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-awesome-parking.svg",
+    "/media/Icon-material-speaker-notes.svg": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-material-speaker-notes.svg",
+    "/media/Icon-metro-language.svg": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-metro-language.svg",
+    "/media/Lierac-Symbole.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Lierac-Symbole.png",
+    "/media/Madame-Ginko.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/Madame-Ginko.jpg",
+    "/media/Mask-Group-14.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-14.png",
+    "/media/Mask-Group-16.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-16.jpg",
+    "/media/Mask-Group-17.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-17.png",
+    "/media/Mask-Group-18.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-18.png",
+    "/media/Mask-Group-19.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-19.png",
+    "/media/Mask-Group-20.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-20.png",
+    "/media/Mask-Group-21.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-21.png",
+    "/media/Mask-Group-22.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-22.png",
+    "/media/Mask-Group-23.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-23.png",
+    "/media/Mask-Group-29.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-29.jpg",
+    "/media/Mask-Group-30.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-30.jpg",
+    "/media/Mask-Group-31.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-31.png",
+    "/media/Mask-Group-32.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-32.jpg",
+    "/media/Mustela-Logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Mustela-Logo.png",
+    "/media/Vichy-Logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/Vichy-Logo.png",
+    "/media/apivita-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/apivita-logo.png",
+    "/media/arkopharma.png": "https://ginkgo.lu/wp-content/uploads/2021/09/arkopharma.png",
+    "/media/caudalie-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/caudalie-logo.png",
+    "/media/ducray-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/ducray-logo.png",
+    "/media/eucerin-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/eucerin-logo.png",
+    "/media/facebook-social-media.svg": "https://ginkgo.lu/wp-content/uploads/2021/09/facebook-social-media.svg",
+    "/media/favIcon.png": "https://ginkgo.lu/wp-content/uploads/2021/09/favIcon.png",
+    "/media/flags.svg": "https://ginkgo.lu/wp-content/uploads/2021/09/flags.svg",
+    "/media/ginkgo_270412_001.png": "https://ginkgo.lu/wp-content/uploads/2021/09/ginkgo_270412_001.png",
+    "/media/instagram-transp-social-media.svg": "https://ginkgo.lu/wp-content/uploads/2021/09/instagram-transp-social-media.svg",
+    "/media/logo.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/logo.jpg",
+    "/media/louis-widmer-logo-1.png": "https://ginkgo.lu/wp-content/uploads/2021/09/louis-widmer-logo-1.png",
+    "/media/medela-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/medela-logo.png",
+    "/media/mlqe.png": "https://ginkgo.lu/wp-content/uploads/2021/09/mlqe.png",
+    "/media/new-logo-GINKGO-009.jpg": "https://ginkgo.lu/wp-content/uploads/2021/09/new-logo-GINKGO-009.jpg",
+    "/media/nuxe-bio.png": "https://ginkgo.lu/wp-content/uploads/2021/09/nuxe-bio.png",
+    "/media/phyto-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/phyto-logo.png",
+    "/media/sdk.png": "https://ginkgo.lu/wp-content/uploads/2021/09/sdk.png",
+    "/media/svr-logo.png": "https://ginkgo.lu/wp-content/uploads/2021/09/svr-logo.png",
+    "/media/Blisteration.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Blisteration.png",
+    "/media/Component-382-0.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Component-382-0.jpg",
+    "/media/GP-8.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/GP-8.jpg",
+    "/media/Group-124.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-124.jpg",
+    "/media/Group-127.svg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-127.svg",
+    "/media/Group-129.svg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-129.svg",
+    "/media/Group-132.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-132.jpg",
+    "/media/Group-133.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-133.jpg",
+    "/media/Group-134.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-134.jpg",
+    "/media/Group-135.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-135.jpg",
+    "/media/Group-136.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-136.jpg",
+    "/media/Group-137.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-137.jpg",
+    "/media/Group-163-1.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-163-1.jpg",
+    "/media/Group-164.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-164.jpg",
+    "/media/Group-165.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-165.jpg",
+    "/media/Group-166.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-166.jpg",
+    "/media/Group-168.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-168.jpg",
+    "/media/Group-169.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-169.jpg",
+    "/media/Group-170.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-170.jpg",
+    "/media/Group-171.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-171.jpg",
+    "/media/Group-172.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-172.jpg",
+    "/media/Group-173.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-173.jpg",
+    "/media/Logo-sudoscan-2.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Logo-sudoscan-2.jpg",
+    "/media/Mask-Group-108.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-108.jpg",
+    "/media/Mask-Group-109.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-109.jpg",
+    "/media/Mask-Group-113.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-113.png",
+    "/media/Mask-Group-114.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-114.png",
+    "/media/Mask-Group-115.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-115.png",
+    "/media/Mask-Group-116.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-116.png",
+    "/media/Mask-Group-117.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-117.png",
+    "/media/Mask-Group-118.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-118.png",
+    "/media/Mask-Group-67.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-67.jpg",
+    "/media/Mask-Group-68.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-68.jpg",
+    "/media/Mask-Group-69-1.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-69-1.jpg",
+    "/media/Mask-Group-69.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-69.jpg",
+    "/media/Mask-Group-76-1.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-76-1.jpg",
+    "/media/Mask-Group-76.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-76.jpg",
+    "/media/Mask-Group-77.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-77.jpg",
+    "/media/Mask-Group-80.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-80.jpg",
+    "/media/Mask-Group-83.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-83.jpg",
+    "/media/Mask-Group-84.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-84.jpg",
+    "/media/Mask-Group-85.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-85.jpg",
+    "/media/Mask-Group-86.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-86.jpg",
+    "/media/Mask-Group-87.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-87.jpg",
+    "/media/Mask-Group-88.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-88.jpg",
+    "/media/Mask-Group-89.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-89.jpg",
+    "/media/Mask-Group-94.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-94.jpg",
+    "/media/MustelLogo.png": "https://ginkgo.lu/wp-content/uploads/2022/02/MustelLogo.png",
+    "/media/Nutritherapie.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Nutritherapie.png",
+    "/media/Pharmacie.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Pharmacie.png",
+    "/media/Preparation.png": "https://ginkgo.lu/wp-content/uploads/2022/02/Preparation.png",
+    "/media/Sigvaris-logo.jpg": "https://ginkgo.lu/wp-content/uploads/2022/02/Sigvaris-logo.jpg",
+    "/media/SudoScan.png": "https://ginkgo.lu/wp-content/uploads/2022/02/SudoScan.png",
+    "/media/asthmatique.png": "https://ginkgo.lu/wp-content/uploads/2022/02/asthmatique.png",
+    "/media/compressionMedicale.png": "https://ginkgo.lu/wp-content/uploads/2022/02/compressionMedicale.png",
+    "/media/ducray-logo-2.png": "https://ginkgo.lu/wp-content/uploads/2022/02/ducray-logo.png",
+    "/media/medela-logo-2.png": "https://ginkgo.lu/wp-content/uploads/2022/02/medela-logo.png",
+    "/media/svr-logo-2.png": "https://ginkgo.lu/wp-content/uploads/2022/02/svr-logo.png",
+    "/media/tirelait.png": "https://ginkgo.lu/wp-content/uploads/2022/02/tirelait.png",
+    "/media/Group-175.png": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-175.png",
+    "/media/Group-176.png": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-176.png",
+    "/media/Group-177.png": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-177.png",
+    "/media/Group-178.png": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-178.png",
+    "/media/Group-179.png": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-179.png",
+    "/media/Group-180.png": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-180.png",
+    "/media/Group-182.jpg": "https://ginkgo.lu/wp-content/uploads/2022/04/Group-182.jpg",
+    "/media/Path-45.png": "https://ginkgo.lu/wp-content/uploads/2023/02/Path-45.png",
+    "/media/image002.png": "https://ginkgo.lu/wp-content/uploads/2025/02/image002.png",
+    "/media/image003.png": "https://ginkgo.lu/wp-content/uploads/2025/02/image003.png",
+    "/media/image004.png": "https://ginkgo.lu/wp-content/uploads/2025/02/image004.png",
+    "/media/image005.png": "https://ginkgo.lu/wp-content/uploads/2025/02/image005.png",
+    "/media/image006.png": "https://ginkgo.lu/wp-content/uploads/2025/02/image006.png"
+  },
+  "pages": [
+    {
+      "lang": "fr",
+      "path": "/",
+      "title": "Pharmacie Val Sainte-Croix Luxembourg - Ginkgo",
+      "description": "La pharmacie Ginkgo vous accueille en 6 langues du lundi au samedi. Pharmacie conseil maman-bébé, Test Covid, Sudoscan, point conseil asthme, parapharmacie, blistérisation de traitement, location de tire-lait, compression médicale…",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Bienvenue à la Pharmacie Ginkgo"
+        },
+        {
+          "type": "p",
+          "html": "Madame Claude Hostert-Pfeiffer, pharmacienne titulaire et son équipe vous accueillent au coeur du quartier Val Sainte-Croix du lundi au samedi."
+        },
+        {
+          "type": "p",
+          "html": "Bénéficiez des conseils d’une équipe de professionnels multilingues formés à toutes les thématiques santé."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services"
+        },
+        {
+          "type": "h1",
+          "html": "14 professionnels au service de votre santé et de votre bien-être !"
+        },
+        {
+          "type": "p",
+          "html": "Plus qu’une pharmacie, Ginkgo est <a href=\"/services\">un espace de santé, de conseils et de services</a> pour toute la famille. Notre équipe composée de 5 pharmaciens, 4 préparateurs, 2 assistantes en pharmacie, 2 aides en pharmacie et d’1 esthéticienne est à votre écoute pour agir en faveur de la prévention et de l’accès à la santé pour tous."
+        },
+        {
+          "type": "p",
+          "html": "Pour vous faire gagner du temps, nous vous offrons la possibilité de <a href=\"/envoyez-votre-prescription\"> réserver vos médicaments</a> à l’avance. Adressez-nous votre prescription à l’aide du formulaire conçu à cet effet et vous n’aurez plus qu’à venir les récupérer sur place dans notre pharmacie. Lors de la remise de votre commande, nous vous fournirons les conseils associés nécessaires."
+        },
+        {
+          "type": "p",
+          "html": "Nous faisons également les tests antigéniques rapides par prélèvement nasal. Vous obtenez le résultat de <a href=\"/covid-test\">votre test de dépistage Covid</a> en 15 minutes sous la forme d’un certificat européen avec QR code."
+        },
+        {
+          "type": "h3",
+          "html": "Une situation idéale entre le CHL et la place de l’étoile!"
+        },
+        {
+          "type": "p",
+          "html": "Des places de parking sont à la disposition de la clientèle devant la pharmacie.<br/> Proximité des transports en commun (bus 8 et 12) et de l’arrêt de tram Stäreplaz/Étoile."
+        },
+        {
+          "type": "h3",
+          "html": "Une équipe multilingue"
+        },
+        {
+          "type": "p",
+          "html": "Bénéficiez des conseils d’une équipe de professionnels multilingues formés à toutes les thématiques santé."
+        },
+        {
+          "type": "h3",
+          "html": "Au service de votre santé et de votre bien-être !"
+        },
+        {
+          "type": "p",
+          "html": "Madame Claude Hostert-Pfeiffer et son équipe vous accueillent du lundi au vendredi de 8h30 à 18h30 et le samedi de 8h30 à 12h30."
+        },
+        {
+          "type": "h2",
+          "html": "Nos conseils et notre expertise au<br/> service de votre santé."
+        },
+        {
+          "type": "h4",
+          "html": "Compression médicale"
+        },
+        {
+          "type": "p",
+          "html": "Nous vous offrons un service personnalisé de la prise de vos mesures !"
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/compression-medicale"
+        },
+        {
+          "type": "h4",
+          "html": "Blistérisation des médicaments"
+        },
+        {
+          "type": "p",
+          "html": "La blistérisation en doses individuelles facilite la prise de médicaments."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/blisterisation-de-medicaments"
+        },
+        {
+          "type": "h4",
+          "html": "Location de tire-lait"
+        },
+        {
+          "type": "p",
+          "html": "Pratique ! Louez votre tire-lait Medela durant 6 mois ou plus."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/location-de-tire-lait-a-luxembourg"
+        },
+        {
+          "type": "h4",
+          "html": "Centre de prévention neuropathie (par sudoscan)"
+        },
+        {
+          "type": "p",
+          "html": "Bénéficiez d’informations sur le diabète et réservez votre test Sudoscan."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/prevention-neuropathie"
+        },
+        {
+          "type": "h4",
+          "html": "Entretien pharmaceutique pour patient asthmatique"
+        },
+        {
+          "type": "p",
+          "html": "Bénéficiez d’un accompagnement spécialisé dans le traitement de votre asthme."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/pharmacie-conseil-pour-personnes-asthmatiques"
+        },
+        {
+          "type": "h4",
+          "html": "Nutrithérapie"
+        },
+        {
+          "type": "p",
+          "html": "Retrouvez les plus grandes marques de nutrithérapie et bénéficiez de nos conseils."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/nutritherapie"
+        },
+        {
+          "type": "h4",
+          "html": "Préparation magistrale"
+        },
+        {
+          "type": "p",
+          "html": "Rapide ! Vos préparations magistrales (tisanes, gélules, crèmes, lotions, suppositoires) réalisées dans notre laboratoire."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/preparation-magistrale"
+        },
+        {
+          "type": "h4",
+          "html": "Parapharmacie"
+        },
+        {
+          "type": "p",
+          "html": "Les plus grandes marques de parapharmacie sont à la pharmacie Ginkgo."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d'info",
+          "href": "/services/parapharmacie"
+        },
+        {
+          "type": "h2",
+          "html": "Nos principales marques de parapharmacie"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie Ginkgo a sélectionné avec soin de grandes marques de produits de parapharmacie pour votre bien-être et votre santé. La pharmacie Ginkgo pense également aux besoins de toute la famille en proposant des produits pharmaceutiques adaptés à vos enfants."
+        },
+        {
+          "type": "h4",
+          "html": "Parapharmacie"
+        },
+        {
+          "type": "h4",
+          "html": "Bébé"
+        },
+        {
+          "type": "h4",
+          "html": "Médicales"
+        },
+        {
+          "type": "h4",
+          "html": "Cheveux"
+        },
+        {
+          "type": "h4",
+          "html": "Phytothérapie"
+        },
+        {
+          "type": "h4",
+          "html": "Maquillage"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/ginkgo_270412_001.png",
+          "alt": "ginkgo",
+          "local": "/media/ginkgo_270412_001.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-awesome-parking.svg",
+          "alt": "parking",
+          "local": "/media/Icon-awesome-parking.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-metro-language.svg",
+          "alt": "langue",
+          "local": "/media/Icon-metro-language.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/flags.svg",
+          "alt": "flags",
+          "local": "/media/flags.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-material-speaker-notes.svg",
+          "alt": "conseils",
+          "local": "/media/Icon-material-speaker-notes.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-29.jpg",
+          "alt": "compression medicale",
+          "local": "/media/Mask-Group-29.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-30.jpg",
+          "alt": "médicaments",
+          "local": "/media/Mask-Group-30.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-31.png",
+          "alt": "tire-lait",
+          "local": "/media/Mask-Group-31.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Group-91.png",
+          "alt": "sudoscan",
+          "local": "/media/Group-91.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-32.jpg",
+          "alt": "prévention",
+          "local": "/media/Mask-Group-32.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-14.png",
+          "alt": "nutritherapie",
+          "local": "/media/Mask-Group-14.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-16.jpg",
+          "alt": "Préparation magistrale",
+          "local": "/media/Mask-Group-16.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Pharmacie.png",
+          "alt": "Parapharmacie",
+          "local": "/media/Pharmacie.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-21.png",
+          "alt": "apivita",
+          "local": "/media/Mask-Group-21.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-22.png",
+          "alt": "avène",
+          "local": "/media/Mask-Group-22.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/caudalie-logo.png",
+          "alt": "caudalie",
+          "local": "/media/caudalie-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image003.png",
+          "alt": "",
+          "local": "/media/image003.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/eucerin-logo.png",
+          "alt": "eucerin",
+          "local": "/media/eucerin-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-23.png",
+          "alt": "roche",
+          "local": "/media/Mask-Group-23.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image002.png",
+          "alt": "",
+          "local": "/media/image002.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Lierac-Symbole.png",
+          "alt": "lierac",
+          "local": "/media/Lierac-Symbole.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/louis-widmer-logo-1.png",
+          "alt": "louis widmer",
+          "local": "/media/louis-widmer-logo-1.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/nuxe-bio.png",
+          "alt": "nuxe",
+          "local": "/media/nuxe-bio.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Vichy-Logo.png",
+          "alt": "Vichy",
+          "local": "/media/Vichy-Logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-17.png",
+          "alt": "avent",
+          "local": "/media/Mask-Group-17.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-18.png",
+          "alt": "klorane",
+          "local": "/media/Mask-Group-18.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/medela-logo.png",
+          "alt": "medela",
+          "local": "/media/medela-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mustela-Logo.png",
+          "alt": "mustela",
+          "local": "/media/Mustela-Logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-20.png",
+          "alt": "aderma",
+          "local": "/media/Mask-Group-20.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/ducray-logo.png",
+          "alt": "ducray",
+          "local": "/media/ducray-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image005.png",
+          "alt": "",
+          "local": "/media/image005.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/svr-logo.png",
+          "alt": "svr",
+          "local": "/media/svr-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/apivita-logo.png",
+          "alt": "apivita",
+          "local": "/media/apivita-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-19.png",
+          "alt": "dercos",
+          "local": "/media/Mask-Group-19.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image006.png",
+          "alt": "",
+          "local": "/media/image006.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/phyto-logo.png",
+          "alt": "phyto",
+          "local": "/media/phyto-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/arkopharma.png",
+          "alt": "arkopharma",
+          "local": "/media/arkopharma.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image004.png",
+          "alt": "",
+          "local": "/media/image004.png"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/a-propos",
+      "title": "Qui sommes-nous ? – Pharmacie Ginkgo",
+      "description": "À vos côtés depuis 2007 ! Faites connaissance avec les membres de notre équipe et découvrez l’histoire de notre pharmacie à Luxembourg.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Notre histoire"
+        },
+        {
+          "type": "p",
+          "html": "En 2007, Claude Hostert-Pfeiffer, pharmacienne titulaire, reprend une des plus anciennes pharmacies du Luxembourg, la « Mouerenapdikt ». Depuis, la pharmacie a déménagé et a également changé de nom. Elle s’appelle désormais Ginkgo-Apdikt en référence au plus ancien arbre sur terre : le Ginkgo biloba."
+        },
+        {
+          "type": "cta",
+          "label": "De la Mouerenapdikt à la pharmacie Ginkgo, 217 ans d’histoire en photos",
+          "href": "#history"
+        },
+        {
+          "type": "h2",
+          "html": "Une localisation idéale"
+        },
+        {
+          "type": "p",
+          "html": "En 2009, la pharmacie emménage dans ses tous nouveaux locaux au <strong>3 Val Sainte-Croix </strong>à proximité des transports en commun de la place de l’Étoile mais aussi du CHL."
+        },
+        {
+          "type": "h2",
+          "html": "Le service et l’écoute client avant tout"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie s’engage dans un processus de <strong>formation continue de son personnel </strong>pour vous proposer du personnel formé dans de nombreuses spécialités : asthme, diabète, hypertension, nutrithérapie, aromathérapie, allaitement…"
+        },
+        {
+          "type": "cta",
+          "label": "Découvrez nos services",
+          "href": "/services"
+        },
+        {
+          "type": "h3",
+          "html": "Une pharmacie de référence pour les mamans allaitantes"
+        },
+        {
+          "type": "p",
+          "html": "Notre pharmacie se veut être un endroit d’écoute et de <strong>conseil pour les mères allaitantes</strong>. De la location de tire-lait à la transition lait maternel – nourriture solide, nous accompagnons les mamans dans leur parcours d’allaitement."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d’informations",
+          "href": "/services/location-de-tire-lait-a-luxembourg"
+        },
+        {
+          "type": "h3",
+          "html": "Un point conseil pour les asthmatiques"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie Ginkgo participe au projet pilote « <strong>Mieux vivre son asthme </strong>» et dans un entretien sur rendez-vous accompagne les patients asthmatiques dans la gestion de leur maladie et la prise de leur traitement."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d’informations",
+          "href": "/services/pharmacie-conseil-pour-personnes-asthmatiques"
+        },
+        {
+          "type": "h3",
+          "html": "Une véritable expertise dans la gestion du diabète"
+        },
+        {
+          "type": "p",
+          "html": "Ginkgo s’engage à lutter contre les complications liées au diabète. L’officine propose des tests par Sudoscan pour détecter précocement des neuropathies périphériques. Un moyen préventif à disposition des patients diabétiques ou de tout autre patient."
+        },
+        {
+          "type": "cta",
+          "label": "Plus d’informations",
+          "href": "/services/prevention-neuropathie"
+        },
+        {
+          "type": "h3",
+          "html": "Notre équipe"
+        },
+        {
+          "type": "p",
+          "html": "Ginkgo-Apdikt, c’est une équipe de professionnels de la santé présents au quotidien pour vous conseiller et vous écouter. La pharmacie s’engage dans un processus de formation continue de son personnel pour vous proposer des spécialistes dans de nombreuses branches : asthme, diabète, nutrithérapie, aromathérapie, allaitement…"
+        },
+        {
+          "type": "h2",
+          "html": "De la moren apdikt à la pharmacie Ginkgo au fil du temps"
+        },
+        {
+          "type": "h5",
+          "html": "2009"
+        },
+        {
+          "type": "p",
+          "html": "Déménagement au 3, val Ste. Croix"
+        },
+        {
+          "type": "h5",
+          "html": "2007"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacienne titulaire:<br/> Claude Hostert-Pfeiffer (*1968)"
+        },
+        {
+          "type": "h5",
+          "html": "1953"
+        },
+        {
+          "type": "p",
+          "html": "Déménagement au 8, Grand-Rue : Robert Widung (*1942)"
+        },
+        {
+          "type": "h5",
+          "html": "1933"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacien titulaire : Edouard Widung (1906-1991)"
+        },
+        {
+          "type": "h5",
+          "html": "1921"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacien titulaire : Jacques Bos"
+        },
+        {
+          "type": "h5",
+          "html": "1899"
+        },
+        {
+          "type": "p",
+          "html": "Déménagement au 16, Grand-Rue – Nicolas Klees"
+        },
+        {
+          "type": "h5",
+          "html": "1872"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacien titulaire : Corneile Schroeder (*1844)"
+        },
+        {
+          "type": "h5",
+          "html": "1871"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacien titulaire : Louis-Charles Rothermel (1845-1872)"
+        },
+        {
+          "type": "h5",
+          "html": "1832"
+        },
+        {
+          "type": "p",
+          "html": "Déménagement au 18, Grand-Rue – Nicolas Rothermel (1805-1871)"
+        },
+        {
+          "type": "h5",
+          "html": "1803"
+        },
+        {
+          "type": "p",
+          "html": "Concession créée en 1803 – Alfred Lenoël (1774-1849)"
+        },
+        {
+          "type": "p",
+          "html": "Copyright : photothèque de la Ville de Luxembourg"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/GP-8.jpg",
+          "alt": "ginkgo",
+          "local": "/media/GP-8.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-69-1.jpg",
+          "alt": "tire lait",
+          "local": "/media/Mask-Group-69-1.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-108.jpg",
+          "alt": "conseils",
+          "local": "/media/Mask-Group-108.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-109.jpg",
+          "alt": "sudoscan",
+          "local": "/media/Mask-Group-109.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2023/02/Path-45.png",
+          "alt": "ginkgo",
+          "local": "/media/Path-45.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-175.png",
+          "alt": "ginkgo 2021",
+          "local": "/media/Group-175.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-177.png",
+          "alt": "ginkgo 1940-1945",
+          "local": "/media/Group-177.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-176.png",
+          "alt": "ginkgo 1953",
+          "local": "/media/Group-176.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-178.png",
+          "alt": "ginkgo 1915",
+          "local": "/media/Group-178.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-180.png",
+          "alt": "ginkgo 1898",
+          "local": "/media/Group-180.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-179.png",
+          "alt": "ginkgo 1906",
+          "local": "/media/Group-179.png"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/envoyez-votre-prescription",
+      "title": "Pharmacie Ginkgo : commandez vos médicaments en ligne",
+      "description": "Gagnez du temps, adressez nous depuis notre site internet votre commande de médicaments, avec ou sans ordonnance, et venez les retirer dans notre pharmacie.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Envoyez-nous votre prescription médicale"
+        },
+        {
+          "type": "p",
+          "html": "Prénom<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Nom<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Adresse e-mail<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Date de naissance<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Numéro de téléphone<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Au moins un des deux champs ci-dessous doit être renseigné pour que votre demande soit validée."
+        },
+        {
+          "type": "p",
+          "html": "❌"
+        },
+        {
+          "type": "p",
+          "html": "Laissez-nous votre message.<br/>"
+        },
+        {
+          "type": "p",
+          "html": "En soumettant le formulaire, vous déclarez avoir lu et vous acceptez la politique de confidentialité et les conditions générales d'utilisation. En particulier, nous procéderons au traitement des données personnelles dans le cadre du système de commande à distance."
+        },
+        {
+          "type": "p",
+          "html": "J'ai lu et j'accepte la politique de confidentialité et les conditions générales d'utilisation."
+        },
+        {
+          "type": "p",
+          "html": "Merci de nous avoir transmis votre commande, nous vous préviendrons par e-mail ou téléphone ou SMS pour vous inviter à venir la retirer dans notre pharmacie"
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "fr",
+      "path": "/services",
+      "title": "Nos principaux services - Pharmacie Ginkgo",
+      "description": "Bénéficiez des conseils d’une équipe de professionnels multilingues formés à toutes les thématiques santé du lundi au vendredi de 8h30 à 18h30 et le samedi de 8h30 à 12h30.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Les services de la pharmacie Ginkgo"
+        },
+        {
+          "type": "h4",
+          "html": "Compression médicale"
+        },
+        {
+          "type": "p",
+          "html": "Nous vous offrons un service personnalisé de la prise de vos mesures !"
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/compression-medicale"
+        },
+        {
+          "type": "h4",
+          "html": "Blistérisation de médicaments"
+        },
+        {
+          "type": "p",
+          "html": "La Blistérisation en doses individuelles facilite la prise de médicaments."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/blisterisation-de-medicaments"
+        },
+        {
+          "type": "h4",
+          "html": "Location de tire-lait"
+        },
+        {
+          "type": "p",
+          "html": "Pratique ! Louez votre tire-lait Medela durant 6 mois ou plus."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/location-de-tire-lait-a-luxembourg"
+        },
+        {
+          "type": "h4",
+          "html": "Centre de prévention neuropathie (par Sudoscan)"
+        },
+        {
+          "type": "p",
+          "html": "Bénéficiez d’informations sur le diabète et réservez votre test Sudoscan."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/prevention-neuropathie"
+        },
+        {
+          "type": "h4",
+          "html": "Entretien pharmaceutique pour patient asthmatique"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie Ginkgo est un lieu d’écoute et de conseils pour les personnes asthmatiques."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/pharmacie-conseil-pour-personnes-asthmatiques"
+        },
+        {
+          "type": "h4",
+          "html": "Nutrithérapie"
+        },
+        {
+          "type": "p",
+          "html": "Retrouvez les plus grandes marques de nutrithérapie et bénéficiez de nos conseils."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/nutritherapie"
+        },
+        {
+          "type": "h4",
+          "html": "Préparation magistrale"
+        },
+        {
+          "type": "p",
+          "html": "Rapide ! Vos préparations magistrales réalisées dans notre laboratoire."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/preparation-magistrale"
+        },
+        {
+          "type": "h4",
+          "html": "Parapharmacie"
+        },
+        {
+          "type": "p",
+          "html": "Les plus grandes marques de parapharmacie sont à la pharmacie Ginkgo."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "href": "/services/parapharmacie"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/compressionMedicale.png",
+          "alt": "compression medicale",
+          "local": "/media/compressionMedicale.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Blisteration.png",
+          "alt": "Blistérisation des médicaments",
+          "local": "/media/Blisteration.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/tirelait.png",
+          "alt": "Location de tire-lait",
+          "local": "/media/tirelait.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/SudoScan.png",
+          "alt": "Sudoscan",
+          "local": "/media/SudoScan.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/asthmatique.png",
+          "alt": "asthmatique",
+          "local": "/media/asthmatique.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Nutritherapie.png",
+          "alt": "Nutrithérapie",
+          "local": "/media/Nutritherapie.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Preparation.png",
+          "alt": "Préparation magistrale",
+          "local": "/media/Preparation.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Pharmacie.png",
+          "alt": "Parapharmacie",
+          "local": "/media/Pharmacie.png"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/compression-medicale",
+      "title": "Bas et collants de compression médicale - Pharmacie Ginkgo",
+      "description": "Trouvez les bas, collants et autres accessoires de compression pour le sport, la grossesse ou tous les jours dans notre pharmacie. Prise de mesures sur rendez-vous et conseils.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Compression médicale :<br/> chaussettes, bas et collants de contention"
+        },
+        {
+          "type": "p",
+          "html": "Problème veineux, grossesse, rétention d’eau notamment lors de longs voyages… sont les raisons les plus courantes d’un recours à une solution de compression médicale. La pharmacie Ginkgo réalise la prise de mesure en officine et vous propose une sélection de bas, chaussettes et collants de contention dans les marques <strong>Bauerfeind</strong> et <strong>Sigvaris</strong>."
+        },
+        {
+          "type": "cta",
+          "label": "Prendre rendez-vous",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "Nos marques de contention médicales"
+        },
+        {
+          "type": "p",
+          "html": "Nous avons choisi de travailler avec deux des plus grandes marques de contention médicale : Sigvaris et Bauerfeind."
+        },
+        {
+          "type": "h3",
+          "html": "Sigvaris"
+        },
+        {
+          "type": "p",
+          "html": "La gamme de compression médicale Sigvaris se distingue par la diversité de ses produits et leur style. Chez Sigavris, vous trouverez des :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Chaussettes de compression",
+            "Bas de compression",
+            "Collants de compression",
+            "Collants de compression maternité"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "La marque offre une solution compressive en adéquation avec votre besoin ou votre pathologie :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Jambes lourdes / gonflées",
+            "Varicosités",
+            "Varices",
+            "Œdème veineux",
+            "Voyage",
+            "Grossesse",
+            "Travail debout",
+            "Sport"
+          ]
+        },
+        {
+          "type": "h3",
+          "html": "Bauerfeind"
+        },
+        {
+          "type": "p",
+          "html": "Bauerfeind est une marque allemande qui depuis 1929 propose des solutions de compression médicales:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Compression médicale veineuse de légère à modérée",
+            "Compression médicale pour les femmes enceintes"
+          ]
+        },
+        {
+          "type": "h3",
+          "html": "Le remboursement partiel de vos bas, collants ou chaussettes de contention"
+        },
+        {
+          "type": "p",
+          "html": "<strong>La CNS prend en charge 60%</strong> du coût de votre solution de compression médicale. Pour cela, une ordonnance médicale est nécessaire."
+        },
+        {
+          "type": "p",
+          "html": "Une question sur le remboursement de votre solution de compression médicale ? Notre équipe vous aide à y voir plus clair."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-94.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-94.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-83.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-83.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-84.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-84.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-85.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-85.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-86.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-86.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-87.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-87.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-88.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-88.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-89.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-89.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Sigvaris-logo.jpg",
+          "alt": "sigvaris",
+          "local": "/media/Sigvaris-logo.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-124.jpg",
+          "alt": "Bauerfeind",
+          "local": "/media/Group-124.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/blisterisation-de-medicaments",
+      "title": "Blistérisation de médicaments à Luxembourg : Pharmacie Ginkgo",
+      "description": "Traitement sur le long terme ? Nous vous aidons à simplifier la prise de vos médicaments grâce à notre service de blistérisation de médicament : emballage individuel selon l’horaire de prise",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Blistérisation de médicaments réalisée au Luxembourg"
+        },
+        {
+          "type": "p",
+          "html": "Vous ou l’un de vos proches devez <strong>prendre quotidiennement plusieurs médicaments </strong>? Vous avez besoin d’une solution sûre et efficace pour simplifier la prise de votre traitement et <strong>réduire les oublis de prise </strong>? La pharmacie Ginkgo vous propose son service de blistérisation de médicaments."
+        },
+        {
+          "type": "cta",
+          "label": "Se renseigner",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Qu’est-ce que la blistérisation de médicaments ?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "La blistérisation de médicaments est un système de tri et de d’emballage individualisé de médicaments visant à <strong>simplifier la prise de ses médicaments</strong>. Les médicaments sont triés par prise, ce qui diminue les risques de confusion entre plusieurs pilules."
+        },
+        {
+          "type": "h3",
+          "html": "A qui s’adresse ce service ?"
+        },
+        {
+          "type": "p",
+          "html": "Le service vise les personnes ayant à prendre plusieurs médicaments par jour durant une longue période. Il est utile aux :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Personnes âgées devant suivre un traitement chronique",
+            "Patients ayant peur d’oublier ou de confondre un ou plusieurs médicaments",
+            "Aidants ponctuels ou permanents d’une personne ayant un traitement à prendre",
+            "Personne âgée résidant toujours à domicile et devant prendre seule ses médicaments"
+          ]
+        },
+        {
+          "type": "h3",
+          "html": "Comment faire blistériser mes médicaments ?"
+        },
+        {
+          "type": "p",
+          "html": "Ensemble avec vous <strong>nous établissons votre plan de médication</strong>."
+        },
+        {
+          "type": "p",
+          "html": "Les pochettes contenant vos comprimés et gélules sont labellisées avec votre nom, la date de fabrication, le nom du médicament et l’heure de prise.<br/> Vous êtes aussitôt avertis de la disponibilité de votre traitement."
+        },
+        {
+          "type": "h3",
+          "html": "Le service de blistérisation est-il gratuit ?"
+        },
+        {
+          "type": "p",
+          "html": "Le service est remboursé pour les personnes en maison de soins."
+        },
+        {
+          "type": "p",
+          "html": "Pour les particuliers, le service de blistérisation est payant."
+        },
+        {
+          "type": "p",
+          "html": "L’assurance DKV offre une prise en charge partielle pour les particuliers."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-67.jpg",
+          "alt": "Blistérisation des médicaments",
+          "local": "/media/Mask-Group-67.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/location-de-tire-lait-a-luxembourg",
+      "title": "Location de tire-lait à Luxembourg : Pharmacie Ginkgo",
+      "description": "Louer un tire-lait Medela pour la durée de votre période d’allaitement. Contrat de location jusqu’à 6 mois renouvelable. Matériel professionnel de qualité et conseil en allaitement.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Location de tire-lait à Luxembourg"
+        },
+        {
+          "type": "p",
+          "html": "En tant que pharmacie conseil spécialisée dans l’<strong>aide aux mamans allaitantes</strong>, la pharmacie Ginkgo vous propose un service de location de tire-lait. <strong>Notre situation proche du CHL</strong>, nous permet de vous accompagner dès votre sortie de la maternité."
+        },
+        {
+          "type": "cta",
+          "label": "Louer un tire-lait",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Location de tire-lait medela</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Nous avons choisi de travailler avec la marque <strong>MEDELA</strong>. Nous proposons aux mamans un service de location de tire-lait Medela Symphony. Modèle proposé dans les hôpitaux <strong>le tire-lait électrique Medela Symphony </strong>a été conçu pour assister les mamans tout au long de l’allaitement de leur bébé. Il reproduit le geste naturel de succion du bébé lorsqu’il tête. Tirer votre lait est <strong>rapide et confortable</strong>."
+        },
+        {
+          "type": "h3",
+          "html": "Louer un tire-lait au Luxembourg"
+        },
+        {
+          "type": "p",
+          "html": "Vous souhaitez louer un tire-lait ? Il suffit de prendre contact avec notre pharmacie. La location est réalisée pour une durée à votre meilleure convenance avec un délai maximal de 6 mois renouvelable."
+        },
+        {
+          "type": "h3",
+          "html": "Que faire si j’ai du mal à tirer mon lait ?"
+        },
+        {
+          "type": "p",
+          "html": "Si vous rencontrez des difficultés lors de votre allaitement ou tout simplement si vous avez des questions, notre équipe de pharmaciens formés aux questions de l’allaitement maternel se tient à votre disposition. Vous pouvez à tout moment les contacter pour être conseillé et vivre au mieux l’allaitement de votre bébé."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-132.jpg",
+          "alt": "medela",
+          "local": "/media/Group-132.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-69.jpg",
+          "alt": "tire lait",
+          "local": "/media/Mask-Group-69.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/prevention-neuropathie",
+      "title": "Test par Sudoscan dans le cadre de la prévention de la neuropathie: Pharmacie Ginkgo",
+      "description": "Vous êtes diabétique ? Réalisez votre test par Sudoscan à la pharmacie Ginkgo et recevez des conseils de professionnels formés à la prise en charge de patients diabétiques.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Test par Sudoscan dans le cadre de la prévention de la neuropathie diabétique"
+        },
+        {
+          "type": "p",
+          "html": "Diabétique ? La pharmacie Ginkgo est un point d’<strong>accueil et d’information pour les personnes diabétiques</strong>. Conseil et prévention sont au cœur de notre action. Nous vous proposons aussi le test par Sudoscan pour détecter rapidement d’éventuelles complications."
+        },
+        {
+          "type": "cta",
+          "label": "Prendre rendez-vous",
+          "href": "#contact"
+        },
+        {
+          "type": "h3",
+          "html": "<strong>Qu’est-ce que le Sudoscan ?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Une personne diabétique peut se retrouver confrontée à des complications impliquant l’ensemble du système nerveux autonome. Le Sudoscan est un test qui évalue les petites fibres nerveuses périphériques qui se trouvent dans les glandes sudoripares des mains et des pieds."
+        },
+        {
+          "type": "p",
+          "html": "Le saviez-vous : <strong>Un test par Sudoscan dure 2 minutes et est totalement indolore</strong>. Il peut être effectué dans notre pharmacie sur rendez-vous. Selon le résultat de votre test, nous vous invitons à consulter votre médecin."
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Avantages de Sudoscan</strong>"
+        },
+        {
+          "type": "h3",
+          "html": "Rapidité"
+        },
+        {
+          "type": "p",
+          "html": "Pas de préparation du patient"
+        },
+        {
+          "type": "p",
+          "html": "Résultats en 3 minutes"
+        },
+        {
+          "type": "p",
+          "html": "Lecture facile des données essentielles pour aider les médecins à établir un diagnostic."
+        },
+        {
+          "type": "h3",
+          "html": "Sécurité"
+        },
+        {
+          "type": "p",
+          "html": "Examen non invasif"
+        },
+        {
+          "type": "p",
+          "html": "Pas besoin de jeûner"
+        },
+        {
+          "type": "p",
+          "html": "Facile à utiliser"
+        },
+        {
+          "type": "h3",
+          "html": "Ginkgo et la maison du diabète"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie Ginkgo collabore avec la <a href=\"https://www.ald.lu\" target=\"_blank\" rel=\"noopener noreferrer\">Maison du Diabète</a> afin d’apporter des réponses claires aux patients diabétiques. En plus du Sudoscan, nous disposons de pharmaciens formés à la problématique du diabète."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Logo-sudoscan-2.jpg",
+          "alt": "sudoscan",
+          "local": "/media/Logo-sudoscan-2.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-80.jpg",
+          "alt": "prevention",
+          "local": "/media/Mask-Group-80.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-127.svg",
+          "alt": "Rapidité",
+          "local": "/media/Group-127.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-129.svg",
+          "alt": "Sécurité",
+          "local": "/media/Group-129.svg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/pharmacie-conseil-pour-personnes-asthmatiques",
+      "title": "Pharmacie spécialisée dans le suivi des asthmatiques au Luxembourg",
+      "description": "Asthmatique ? Notre pharmacie a intégré le programme pilote d’entretien pharmaceutique pour patient asthmatique. Bénéficiez de nos conseils et de notre suivi.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Pharmacie conseil pour personnes asthmatiques"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie Ginkgo est un <strong>lieu d’écoute et de conseil pour les personnes asthmatiques</strong>. Nous participons au projet pilote « Mieux vivre son asthme » pour vous aider au quotidien dans la gestion de votre maladie."
+        },
+        {
+          "type": "cta",
+          "label": "Prendre rendez-vous",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>En quoi consiste l’accompagnement ?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "<strong>Notre accompagnement personnalisé</strong> des patients asthmatiques répond aux exigences du projet pilote. Dans ce contexte, nous vous proposons 2 entretiens de 20 minutes afin de répondre à toutes vos questions au sujet de votre maladie et de la prise de votre traitement."
+        },
+        {
+          "type": "p",
+          "html": "Ce service consiste également à vous écouter et à trouver des solutions adaptées aux difficultés que vous rencontrez dans la gestion de votre maladie."
+        },
+        {
+          "type": "p",
+          "html": "Notre objectif ? Améliorer votre qualité de vie grâce à des conseils et solutions personnalisés."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-163-1.jpg",
+          "alt": "asthmatiques",
+          "local": "/media/Group-163-1.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/nutritherapie",
+      "title": "Nutrithérapie, conseils et produits : Pharmacie Ginkgo",
+      "description": "Bénéficiez des conseils d’une pharmacienne formée à la nutrithérapie et retrouvez les plus grandes marques de nutrithérapie à la pharmacie Ginkgo.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Notre rayon nutrithérapie"
+        },
+        {
+          "type": "p",
+          "html": "Notre alimentation passe par une alimentation équilibrée et si besoin un ajout de compléments alimentaires pour combler des besoins précis. <strong>Notre pharmacienne spécialisée en nutrithérapie</strong> vous accompagne et vous conseille."
+        },
+        {
+          "type": "cta",
+          "label": "Contacter la pharmacie",
+          "href": "#contact"
+        },
+        {
+          "type": "h3",
+          "html": "<strong>Pourquoi avoir recours à la nutrithérapie ?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Si une alimentation saine et variée est en principe suffisante pour combler nos besoins nutritionnels, elle peut être complétée par des compléments alimentaires pour optimiser la santé et les performances intellectuelles ou encore, retarder les effets du vieillissement."
+        },
+        {
+          "type": "h2",
+          "html": "<strong>La pharmacie Ginkgo, votre spécialiste en nutrithérapie</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Face à l’offre étendue de compléments alimentaires sur le marché, nous avons décidé de former une partie de l’équipe à la nutrithérapie afin d’accompagner au mieux nos clients. L’un de nos collaborateurs vous aidera dans le choix de vos vos compléments alimentaires et vous guide dans votre protocole."
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Retrouvez les plus grandes marques de nutrithérapie dans notre pharmacie :</strong>"
+        },
+        {
+          "type": "h4",
+          "html": "Inovance"
+        },
+        {
+          "type": "h4",
+          "html": "Ixx pharma"
+        },
+        {
+          "type": "h4",
+          "html": "Metagenics"
+        },
+        {
+          "type": "h4",
+          "html": "Pileje"
+        },
+        {
+          "type": "h4",
+          "html": "Therascience"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-68.jpg",
+          "alt": "nutrithérapie",
+          "local": "/media/Mask-Group-68.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-137.jpg",
+          "alt": "Inovance",
+          "local": "/media/Group-137.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-136.jpg",
+          "alt": "Ixx pharma",
+          "local": "/media/Group-136.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-135.jpg",
+          "alt": "Metagenics",
+          "local": "/media/Group-135.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-134.jpg",
+          "alt": "Pileje",
+          "local": "/media/Group-134.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-133.jpg",
+          "alt": "Therascience",
+          "local": "/media/Group-133.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/preparation-magistrale",
+      "title": "Préparation magistrale à Luxembourg : Pharmacie Ginkgo",
+      "description": "Notre équipe de préparateurs en pharmacie réalise toutes vos préparations magistrales : sirop, onguent, pommade, gélules, gouttes…",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Réalisation de vos préparations magistrales"
+        },
+        {
+          "type": "p",
+          "html": "Certains traitements demandent l’intervention d’un préparateur en pharmacie avant de pouvoir être administrés. A la pharmacie Ginkgo, <strong>nous réalisons vos préparations magistrales au sein de notre laboratoire</strong>."
+        },
+        {
+          "type": "cta",
+          "label": "Contacter la pharmacie",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>L’équipe ginkgo</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Notre équipe est composée de professionnels de la santé spécialisés dans divers domaines. Parmi lesquels, des préparateurs en pharmacie en charge de réaliser vos préparations magistrales :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Sirops ;",
+            "Gélules ;",
+            "Pommades ;",
+            "Gouttes ;",
+            "Suppositoires ;",
+            "Etc."
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-76.jpg",
+          "alt": "preparation",
+          "local": "/media/Mask-Group-76.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-77.jpg",
+          "alt": "preparation",
+          "local": "/media/Mask-Group-77.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/services/parapharmacie",
+      "title": "Nos marques de parapharmacie : Pharmacie Ginkgo",
+      "description": "Retrouvez les plus grandes marques de parapharmacie dans notre pharmacie : Vichy, Lierac, SVR, Mustela, Baby Pure, Ducray, Klorane, Louis Widmer, Avent, Caudalie…",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Les plus grandes marques de parapharmacie sont à la pharmacie Ginkgo"
+        },
+        {
+          "type": "p",
+          "html": "Apivita, Caudalie, Lierac, Nuxe, Vichy, SVR, Ducray, Dercos, Arkogélules, Mustela, Louis Widmer… <strong>retrouvez vos marques préférées de parapharmacie </strong>dans notre rayon dédié. Bénéficiez de nos conseils pour trouver les produits les mieux adaptés à votre peau, vos cheveux et aux soins de votre bébé."
+        },
+        {
+          "type": "h2",
+          "html": "La parapharmacie médicale"
+        },
+        {
+          "type": "p",
+          "html": "La pharmacie Ginkgo vous propose des produits de parapharmacie issus des plus grandes marques à vocation médicale :"
+        },
+        {
+          "type": "h2",
+          "html": "La parapharmacie des bébés"
+        },
+        {
+          "type": "p",
+          "html": "Pour les soins de votre bébé et de vos jeunes enfants, nous vous proposons une gamme de soins doux et efficaces issus des meilleures marques :"
+        },
+        {
+          "type": "h2",
+          "html": "La parapharmacie soins et beauté"
+        },
+        {
+          "type": "p",
+          "html": "Pour votre peau et vos cheveux, nous avons sélectionné les meilleures marques de parapharmacie. Shampooings, masques et nutriments pour cheveux, crèmes de jour et de nuit, baumes à lèvres, body lotion, savons et gel douche, gommages et masques… faites votre choix parmi vos marques préférées :"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-76-1.jpg",
+          "alt": "Parapharmacie",
+          "local": "/media/Mask-Group-76-1.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-113.png",
+          "alt": "aderma",
+          "local": "/media/Mask-Group-113.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-114.png",
+          "alt": "avene",
+          "local": "/media/Mask-Group-114.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/ducray-logo.png",
+          "alt": "ducray",
+          "local": "/media/ducray-logo-2.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-115.png",
+          "alt": "roche",
+          "local": "/media/Mask-Group-115.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/svr-logo.png",
+          "alt": "svr",
+          "local": "/media/svr-logo-2.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-116.png",
+          "alt": "apivita",
+          "local": "/media/Mask-Group-116.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-117.png",
+          "alt": "avent",
+          "local": "/media/Mask-Group-117.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-118.png",
+          "alt": "Klorane",
+          "local": "/media/Mask-Group-118.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/medela-logo.png",
+          "alt": "medela",
+          "local": "/media/medela-logo-2.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/MustelLogo.png",
+          "alt": "mustela",
+          "local": "/media/MustelLogo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-170.jpg",
+          "alt": "apivita",
+          "local": "/media/Group-170.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-171.jpg",
+          "alt": "caudalie",
+          "local": "/media/Group-171.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image003.png",
+          "alt": "",
+          "local": "/media/image003.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Component-382-0.jpg",
+          "alt": "eucerin",
+          "local": "/media/Component-382-0.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-173.jpg",
+          "alt": "isdin",
+          "local": "/media/Group-173.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image002.png",
+          "alt": "",
+          "local": "/media/image002.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-164.jpg",
+          "alt": "lierac",
+          "local": "/media/Group-164.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-165.jpg",
+          "alt": "widmer",
+          "local": "/media/Group-165.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-172.jpg",
+          "alt": "noir",
+          "local": "/media/Group-172.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-166.jpg",
+          "alt": "nuxe",
+          "local": "/media/Group-166.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-169.jpg",
+          "alt": "phyto",
+          "local": "/media/Group-169.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-168.jpg",
+          "alt": "vichy",
+          "local": "/media/Group-168.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "/politique-de-confidentialite",
+      "title": "Politique de confidentialité - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Politique de confidentialité"
+        },
+        {
+          "type": "p",
+          "html": "Ce site Web est la propriété de Pfeiffer Claude Josee Anne Marie<br/> Données de contact : Val Sainte Croix 3, L-1371 Luxembourg<br/> Adresse du siège social : Rue Joseph Hansen 15, L-1716 Luxembourg<br/> Téléphone : <a href=\"tel:+352222174\">+352 22 21 74</a><br/> Adresse mail : <a href=\"mailto:pharmacie@ginkgo.lu\">pharmacie@ginkgo.lu</a><br/> Numéro de TVA : LU21651466"
+        },
+        {
+          "type": "p",
+          "html": "Ci-après dénommé : la pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "En accédant à ce site Web et en l’utilisant, vous marquez explicitement votre accord avec les conditions générales suivantes."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Droits de propriété intellectuelle</strong><br/> Le contenu de ce site, y compris les marques, logos, dessins, données, noms de produits ou d’entreprises, textes, images, etc. sont protégés par des droits de propriété intellectuelle appartenant à la pharmacie ou à des tiers titulaires de ces droits."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Limite de responsabilité</strong><br/> Les informations contenues sur ce site Web sont de nature générale. Ces informations ne sont pas adaptées à des circonstances personnelles ou spécifiques et ne peuvent donc être considérées comme un conseil personnel, professionnel ou juridique à l’utilisateur.<br/> La pharmacie consent de gros efforts pour que les informations mises à disposition soient complètes, correctes, exhaustives et à jour. Malgré ses efforts, des erreurs peuvent figurer dans les informations mises à votre disposition. Si les informations diffusées sur le site comportaient des erreurs ou si certaines informations étaient indisponibles sur ou via le site, la pharmacie mettra tout en œuvre pour rectifier la situation.<br/> La pharmacie ne peut toutefois pas être tenue responsable de dommages directs ou indirects résultant de l’utilisation des informations mises à disposition sur le site Si vous veniez à constater des erreurs dans les informations mises à disposition sur le site, vous pouvez contacter le gestionnaire du site.<br/> Le contenu du site (y compris les liens) peut être adapté, modifié ou complété à tout moment sans avertissement ni communication aucune. La pharmacie n’octroie aucune garantie de bon fonctionnement du site Web et ne peut en aucune manière être tenue responsable d’un dysfonctionnement du site, d’une non-disponibilité provisoire du site ou de toute forme de dommages, directs ou indirects, pouvant résulter de l’accès au site et de l’usage du site. En aucun cas, la pharmacie ne pourra être tenue pour responsable envers quiconque, d’une manière directe, indirecte, spéciale ou autre, des dommages qui pourraient résulter de l’usage de ce site ou d’un autre, en raison notamment des connexions ou des liens hypertextes, incluant, sans limitation, toute perte, interruption du travail, détérioration de programmes ou de données sur le système informatique, le matériel, les logiciels, etc. de l’utilisateur.<br/> Le site Web peut contenir des liens hypertextes vers des sites ou pages Web de tiers ou y faire référence de manière indirecte. La présence de liens vers ces sites ou pages Web ne signifie nullement une approbation implicite du contenu de ces sites ou pages. La pharmacie déclare explicitement qu’elle n’a aucune autorité sur le contenu ou sur les autres caractéristiques de ces sites ou pages Web et ne peut en aucun cas être tenue responsable du contenu ou des caractéristiques desdits sites ou pages Web, ni de dommages pouvant résulter de leur utilisation."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Droit applicable et tribunaux compétents</strong><br/> Ce site est régi par le droit belge en vigueur. Seuls les tribunaux du Luxembourg sont compétents en cas de litige."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Politique de respect de la vie privée</strong><br/> Cette « Déclaration de confidentialité » régit le traitement de vos données à caractère personnel par la personne responsable du traitement : Pfeiffer Claude Josee Anne Marie<br/> Lisez attentivement cette déclaration de confidentialité, car elle contient des informations essentielles sur le traitement de vos données personnelles et les cookies utilisés. En fournissant vos données personnelles sur le site Web Pfeiffer Claude Josee Anne Marie et en utilisant les adresses e-mail indiquées sur ce site, vous déclarez avoir pris connaissance de cette déclaration de confidentialité et l’avoir expressément accepté ainsi que le traitement lui-même."
+        },
+        {
+          "type": "p",
+          "html": "<em>Données à caractère personnel</em><br/> Cette déclaration de confidentialité concerne vos données à caractère personnel. Le RGPD définit ces données comme « toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»); est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale. »"
+        },
+        {
+          "type": "p",
+          "html": "<em>Finalités du traitement</em><br/> La pharmacie recueille et traite les données à caractère personnel des clients en vue de la gestion des clients et des commandes (e.a. pour l’administration des clients, le suivi des commandes/livraisons, la facturation et le suivi de la solvabilité."
+        },
+        {
+          "type": "p",
+          "html": "<em>Base(s) juridique(s) du traitement</em><br/> Les données personnelles seront traitées via le site Web pour diverses raisons juridiques, conformément à l’article 6.1 du Règlement général sur la protection des données à caractère personnel 2016/679 du 27 avril 2016. Si l’on n’utilise qu’un formulaire de contact et une adresse électronique, le pharmacien fonde sa décision sur l’autorisation."
+        },
+        {
+          "type": "p",
+          "html": "<em>Transmission à des tiers</em><br/> Si cela s’avère nécessaire pour réaliser les objectifs visés, les données à caractère personnel seront échangées avec d’autres sociétés de la pharmacie sein de l’Espace Economique Européen."
+        },
+        {
+          "type": "p",
+          "html": "<em>Durée de conservation</em><br/> Les données à caractère personnel traitées en vue de la gestion des clients seront conservées le temps qu’il faut pour satisfaire les obligations légales (entre autres en ce qui concerne la comptabilité). Les données personnelles recueillies au moyen de cookies sont conservées pendant la session ou pour une durée plus longue si cela est nécessaire pour le fonctionnement du site. Lorsque les données sont conservées plus longtemps que la session, celles-ci sont anonymisées."
+        },
+        {
+          "type": "p",
+          "html": "<em>Droit d’accès, de rectification, d’effacement, de limitation, d’opposition et de cessibilité des données à caractère personnel</em><br/> Le client a en tout temps un droit d’accès à ses données à caractère personnel et il a le droit de les rectifier ou de les faire rectifier si elles s’avèrent être inexactes, de les faire effacer, de limiter leur traitement ou de s’opposer au traitement des données le concernant sur la base, y compris le profilage sur la base de ces dispositions. Le client a en outre le droit de demander qu’une copie (sous une forme structurée, courante et lisible par machine) de ses données à caractère personnel soient envoyées à une autre société. Pour exercer lesdits droits, le client est prié de :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corriger lui-même les paramètres de son compte client; et / ou",
+            "d’envoyer un e-mail à l’adresse suivante : <a href=\"mailto:pharmacie@ginkgo.lu\">pharmacie@ginkgo.lu</a>"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "<em>Plaintes</em><br/> Le client a le droit d’introduire une plainte auprès de la pharmacie. En outre, il a le droit d’introduire une plainte auprès une autorité de contrôle."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "fr",
+      "path": "/conditions-generales",
+      "title": "Conditions générales - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Conditions générales"
+        },
+        {
+          "type": "p",
+          "html": "Dispositions préliminaires<br/> Les présentes conditions générales (« Conditions générales ») s’appliquent lorsqu’un Client (tel que défini ci-après) utilise le site web disponible de la Pharmacie"
+        },
+        {
+          "type": "p",
+          "html": "<em>1. Application des présentes Conditions générales</em><br/> Les présentes Conditions générales contiennent les règles contractuelles concernant (a) l’utilisation du Site web et (b) la Commande ou la Réservation que le Client a effectuée par l’intermédiaire du Site web. Les présentes Conditions générales remplacent les conditions ou les accords convenus précédemment entre la Pharmacie et le Client, que ce soit sous forme orale ou écrite.<br/> Aucune autre condition ne s’appliquera jamais, sauf si la Pharmacie a accepté les conditions divergentes à l’avance, explicitement et par écrit.<br/> Veuillez prendre le temps de lire attentivement les présentes Conditions générales. Par le simple fait de consulter et d’utiliser le Site web, le Client reconnaît avoir pris connaissance des présentes Conditions générales et les accepte intégralement et de manière inconditionnelle. S’il n’est pas d’accord avec (une partie du) contenu des présentes Conditions générales, le Client n’est pas autorisé à utiliser le Site web."
+        },
+        {
+          "type": "p",
+          "html": "<em>2. Définitions</em><br/> 2.1 Commande : la commande d’un ou plusieurs Produit(s) via le Site web afin de conclure une vente à distance entre le Client et la Pharmacie.<br/> 2.2 Client : un Consommateur ou un Professionnel qui effectue une Commande ou une Réservation à la Pharmacie via le Site web.<br/> 2.3 Consommateur : toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou professionnelle.<br/> 2.4 Médicament sur ordonnance : un médicament à usage humain ou vétérinaire disponible uniquement sur ordonnance.<br/> 2.5 Professionnel : toute personne physique ou morale qui agit à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou professionnelle.<br/> 2.6 Réservation : la réservation d’un Médicament sur ordonnance sans obligation de paiement et sans obligation d’achat pour le Client. En cas de Réservation, le Médicament sur ordonnance doit toujours être retiré à la pharmacie même.<br/> 2.7 Produit en vente libre : (i) un médicament à usage humain qui n’est pas soumis à prescription médicale et (ii) les dispositifs médicaux (cf CNS)"
+        },
+        {
+          "type": "p",
+          "html": "<em>3. Produits proposés</em><br/> Compte tenu des dispositions légales applicables à la mise à disposition sur Internet des produits proposés dans une pharmacie ouverte au public, tous les produits de la Pharmacie ne sont pas disponibles sur le Site web. De cette façon, le Client ne peut pas commander de Médicaments sur ordonnance sur le Site web, mais peut uniquement les réserver. Une telle Réservation devra toujours être retirée à la Pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "<em>4. Compte du Client</em><br/> 4.1 Pour pouvoir effectuer une Commande ou une Réservation, le Client doit adresser sa commande ou sa réservation à l’aide du formulaire présent « Envoyez votre prescription » présent sur le site. Le Client n’est pas tenu de créer un compte sur le Site web. La Pharmacie ne peut être tenue responsable des pertes ou dommages résultant du non-respect par le Client du présent article 4. La Pharmacie se réserve le droit d’imposer des mesures d’identification supplémentaires (utilisation de la carte d’identité électronique, par exemple). En cas d’utilisation (présumée) illicite ou interdite, sans préjudice du droit de la Pharmacie de réclamer la réparation du préjudice subi au Client.<br/> 4.2 Le Client reconnaît qu’il n’est pas autorisé à se faire passer pour toute autre personne ou entité. Le Client n’est pas autorisé à contourner ou déplacer les mesures de sécurité techniques ou autres du Site web de quelque manière que ce soit."
+        },
+        {
+          "type": "p",
+          "html": "<em>5. Avertissement important avant de passer une Commande</em><br/> 5.1 Certains Produits proposés par la Pharmacie (en particulier, les Produits en vente libre) doivent être utilisés avec la plus grande prudence, après diagnostic et avis préalable d’un médecin ou d’un thérapeute agréé.<br/> 5.2 Les informations fournies par la Pharmacie sur le Site web sont compilées avec le plus grand soin, mais aussi régulièrement vérifiées et actualisées par un pharmacien. Elles sont toutefois transmises à titre purement informatif. Elles ne peuvent dès lors jamais être considérées comme un diagnostic ou un conseil personnalisé, car la Pharmacie ne peut pas connaître les antécédents médicaux complets de chaque Client. S’il souhaite un conseil personnalisé, le Client doit se rendre dans une pharmacie ou chez un médecin avant d’utiliser un Produit.<br/> 5.3 Comme décrit dans la déclaration de confidentialité, la Pharmacie conserve des informations sur les précédentes commandes du Client, mais cela ne signifie pas que la conservation de l’historique des achats donnera lieu à un avertissement automatique (par exemple en ce qui concerne la dose ou l’interaction avec d’autres médicaments).<br/> 5.4 Si le Client a des doutes sur l’adéquation d’un Produit particulier, la Pharmacie lui conseille de ne pas commander le Produit, d’annuler la Commande ou, si celle-ci a déjà été livrée, de ne pas (continuer à) utiliser le Produit sans avoir consulté un pharmacien ou un médecin qualifié.<br/> 5.5 La Pharmacie tient à souligner que les règles juridiques et déontologiques applicables au pharmacien titulaire peuvent entraîner la non-exécution d’une Commande passée si, de l’avis du pharmacien titulaire, celle-ci n’est pas conforme aux règles précitées.<br/> 5.6 L’emballage et les informations sur l’emballage des Produits sont disponibles en français et en néerlandais."
+        },
+        {
+          "type": "p",
+          "html": "<em>6. Commande/Réservation</em><br/> 6.1 Le Client est tenu de communiquer à la Pharmacie de manière correcte et opportune toutes les informations le concernant, son âge ou son sexe par exemple, ou toute autre information médicale pertinente. La Pharmacie ne peut en aucun cas être tenue responsable de l’inexactitude ou du non-encodage par le Client des données relatives à la destination, des données à caractère personnel ou des informations médicales.<br/> 6.5 Si le Client effectue une Réservation, le Médicament sur ordonnance concerné est réservé dans la pharmacie pendant une période maximale de 1 mois après la Réservation (« Période de réservation »). Si le Client retire le Médicament sur ordonnance concerné après la Période de réservation, la Pharmacie ne peut pas garantir que le Médicament sur ordonnance sera en stock."
+        },
+        {
+          "type": "p",
+          "html": "<em>7. Prix</em><br/> En cas de Réservation, le prix indiqué sur le Site web au moment de la Réservation peut différer du prix à payer par le Client au moment de l’achat effectif en Pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "<em>8. Droit de rétractation</em><br/> Dans certains cas, le Consommateur ne dispose pas d’un droit de rétractation, notamment pour les marchandises susceptibles de se détériorer ou de se périmer rapidement, ou pour les marchandises commandées spécifiquement pour le client."
+        },
+        {
+          "type": "p",
+          "html": "<em>9. Garantie</em><br/> 9.1 Garantie légale. En ce qui concerne les biens de consommation (c’est-à-dire tout bien meuble corporel comme une brosse à dents électrique), le Consommateur dispose d’une garantie légale pour tout défaut de conformité qui est présent lors de la livraison du bien de consommation et qui apparaît dans un délai de deux ans à compter de la livraison. Si le Consommateur constate un défaut, il doit en informer la Pharmacie par écrit ou par téléphone dans les plus brefs délais et, en tout cas, dans les 2 mois qui suivent sa découverte (« Délai de notification »). Si le Consommateur n’informe pas la Pharmacie du défaut dans le Délai de notification, celui-ci n’a plus la possibilité d’invoquer la garantie légale. En tout état de cause, le Consommateur doit s’abstenir de toute utilisation ultérieure du bien qui aggraverait le dommage, et ce, dès la découverte du défaut.<br/> 9.2 Clause de non-responsabilité. La Pharmacie ne donne aucune garantie quant à la disponibilité du Site web ou à l’absence de virus et/ou d’autres éléments ou programmes nuisibles lors de l’utilisation de ce Site web, ou quant au fait que les liens de ce Site web vers d’autres sites web soient exempts de virus et/ou d’autres éléments ou programmes nuisibles. En outre, la Pharmacie décline toute responsabilité et tout dommage à cet égard. Le renvoi (lien) vers d’autres sites web ne vaut en aucun cas recommandation ou garantie (y compris pour l’exactitude et l’exhaustivité de leur contenu, leur disponibilité, leur absence de virus) en ce qui concerne ces autres sites web.<br/> 9.3 Service après-vente. Pour toute question ou remarque concernant sa Réservation, le Client peut prendre contact avec la Pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "<em>10. Responsabilité</em><br/> 10.1 La Pharmacie ne peut être tenue responsable des informations erronées figurant sur la notice ou dans les instructions d’utilisation du fabricant. De même, la Pharmacie ne peut être tenue responsable des problèmes de tolérance et d’adéquation des Produits (sauf si le Consommateur a informé la Pharmacie d’un usage spécifique recherché par le Consommateur au moment de sa Commande et que la Pharmacie l’a accepté). Si le Client développe une réaction allergique ou souffre d’effets indésirables lors de l’utilisation d’un Produit, ou s’il pense avoir besoin d’une assistance médicale, il doit contacter son médecin traitant ou chercher une autre assistance médicale le plus rapidement possible. La responsabilité de la Pharmacie ne peut pas non plus être engagée si le défaut est dû au manque de soins, au non-respect par négligence des instructions et des conditions d’utilisation du fabricant, à l’inattention ou à la négligence du Client.<br/> 10.2 La responsabilité de la Pharmacie ne peut pas non plus être engagée pour les éventuels changements apportés par le fabricant dans les Produits.<br/> 10.3 La Pharmacie se réserve le droit d’interrompre ou d’arrêter le Site web à tout moment et ne peut en aucun cas être tenue responsable des dommages ou autres conséquences qui y seraient liés.<br/> 10.4 Aucune disposition des présentes Conditions générales n’a pour objet de limiter ou d’exclure la responsabilité de la Pharmacie (i) vis-à-vis du Client pour sa faute intentionnelle et (ii) vis-vis des Consommateurs pour sa faute grave ou en cas de décès ou de dommages corporels."
+        },
+        {
+          "type": "p",
+          "html": "<em>11. Force majeure</em><br/> Dans les cas où la Pharmacie est confrontée à la Force majeure, elle en informera immédiatement le Client en indiquant la durée estimée de la Force majeure.<br/> Sont notamment considérés comme « Force majeure » : la guerre ou l’état de guerre, le blocus, les sanctions internationales ou l’embargo, les accidents graves, l’incendie, l’inondation, la grève ou le lock-out, les interruptions de transport, les pannes de machines, la défaillance des sous-traitants, des fournisseurs ou des prestataires, les défauts des systèmes logiciels ou matériels des parties susmentionnées, le décès ou la maladie grave de membres clés du personnel, les mesures gouvernementales, etc.<br/> En général, toute situation indépendante de la volonté de la Pharmacie, par laquelle l’exécution normale des obligations de la Pharmacie a été largement empêchée ou a été rendue impossible, est considérée comme Force majeure."
+        },
+        {
+          "type": "p",
+          "html": "<em>12. Droits de propriété intellectuelle</em><br/> Les textes, photos, illustrations, films, images, données, Fiches produits, logiciels, dénominations, noms commerciaux et noms de domaine, marques, logos et autres composants des éléments disponibles sur le Site web (« Informations ») et tous les droits de propriété intellectuelle s’y rapportant appartiennent à la Pharmacie ou à des tiers. Sans autorisation écrite et préalable de la Pharmacie, il est interdit de stocker (à part si c’est nécessaire pour pouvoir regarder le Site web), reproduire, modifier, rendre publiques, distribuer ou transmettre, vendre ou transférer par tout autre moyen les Informations fournies ou de conférer des droits sur celles-ci à des tiers par tout autre moyen."
+        },
+        {
+          "type": "p",
+          "html": "<em>13. Protection de la vie privée</em><br/> 13.1 La Pharmacie traite toutes les données à caractère personnel concernant le Client conformément à sa Politique de Confidentialité, qui est disponible ci-dessus."
+        },
+        {
+          "type": "p",
+          "html": "<em>14. Nullité</em><br/> La nullité de l’une des clauses (ou d’une partie de celle-ci) des Conditions générales n’implique pas la nullité des autres clauses des Conditions générales. Les autres parties ou clauses des Conditions générales restent en vigueur et exécutoires comme si ces parties ou ces clauses nulles n’étaient pas incluses dans les présentes Conditions générales. Si une clause est nulle, les parties s’engagent à négocier de bonne foi une nouvelle clause qui se conforme autant que possible à l’esprit de la clause originale."
+        },
+        {
+          "type": "p",
+          "html": "<em>15. Droit applicable et tribunal compétent</em><br/> Tout litige relatif aux présentes Conditions générales sera exclusivement soumis au droit luxembourgeois. Tous les litiges découlant des présentes Conditions générales seront soumis à la compétence exclusive des tribunaux du Luxembourg."
+        },
+        {
+          "type": "p",
+          "html": "<em>16 Modifications aux présentes Conditions générales</em><br/> La Pharmacie se réserve le droit de mettre à jour les présentes Conditions générales de temps à autre afin de les adapter aux évolutions légales, techniques ou commerciales, dont la publication sur le Site web vaudra notification de ces modifications. Les Conditions générales modifiées seront mises en œuvre à la date à laquelle ces modifications seront mises à disposition sur le Site web (la « Notification »). La poursuite de l’utilisation du Site web sera considérée comme l’acceptation pleine et inconditionnelle des Conditions générales modifiées pour Réservation de Médicaments sur ordonnance via le Site web à compter de la Notification.<br/> Le Client peut voir la date de la dernière modification des présentes Conditions générales en se reportant à la date de la « dernière mise à jour » affichée en haut des présentes Conditions générales."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "fr",
+      "path": "/disclaimer",
+      "title": "Disclaimer - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Disclaimer"
+        },
+        {
+          "type": "p",
+          "html": "Ce site Web est la propriété de Pfeiffer Claude Josee Anne Marie<br/> Données de contact : Val Sainte Croix 3, L-1371 Luxembourg<br/> Adresse du siège social : Rue Joseph Hansen 15, L-1716 Luxembourg<br/> Téléphone : <a href=\"tel:+352222174\">+352 22 21 74</a><br/> Adresse mail : <a href=\"mailto:pharmacie@ginkgo.lu\">pharmacie@ginkgo.lu</a><br/> Numéro de TVA : LU21651466"
+        },
+        {
+          "type": "p",
+          "html": "Bienvenue sur le site web www.ginkgo.lu. Lisez ces Conditions Générales attentivement. Elles contiennent les règles qui s’appliquent à l’accès à la partie publique de notre site (utilisateurs non-enregistrés).<br/> En visitant notre site Internet et en l’utilisant tout utilisateur s’engage à respecter les présentes Conditions Générales et il / elle accepte leur force contraignante."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Propriété intellectuelle</strong><br/> Le contenu du site internet, y inclus les marques, logos, les éléments et illustrations graphiques, les données, les dénominations de produits et de société, les textes, les images, etc, sont et resteront la propriété exclusive de la pharmacie Ginkgo ou de certains tiers avec qui pharmacie Ginkgo a conclu des contrats de licence ou d’utilisation."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Limitation de responsabilité</strong><br/> L’information sur ce site est de nature général. L’information n’est pas adaptée à des situations spécifiques ni individualisée et ne peut donc en aucun cas constituer un avis personnel ou juridique à un utilisateur individuel.<br/> La pharmacie Ginkgo consacre la plus grande attention et le plus grand soin possibles au contenu de son site internet. Ce contenu est toutefois sujet à des modifications, peut être supprimé de tout temps et est mis à disposition de l’utilisateur sans garanties explicites ou implicites concernant son exactitude.<br/> La pharmacie Ginkgo n’est pas responsable des dégâts directs ou indirects causés par l’utilisation du contenu de son site internet. Si vous constatez la présence d’inexactitudes dans l’information communiqué sur notre site internet, nous vous prions de contacter le responsable du site internet.<br/> Le contenu du site internet (y inclus les hyperliens) est sujet à des modifications et peut être supprimé de tout temps.<br/> La pharmacie Ginkgo ne peut garantir un fonctionnement parfait de son site internet, ni un accès ininterrompu à son site internet et des problèmes de fonctionnement où d’accès ne pourront en aucun cas entraîner de sanction ou d’indemnité, directe ou indirecte dans son chef.<br/> La pharmacie Ginkgo ne peut être tenu responsable de toute erreur ou omission, ni des résultats obtenus par suite de l’utilisation de ce site ou d’un autre.<br/> Le site internet peut contenir des liens vers des sites qui ne sont pas gérés, abrités ou entretenus par la pharmacie Ginkgo. La présence de liens vers ces sites n’implique en aucun cas l’accord de la pharmacie Ginkgo avec le contenu de ces sites internet. La pharmacie Ginkgo n’est en aucun cas responsable du contenu ou d’autres caractéristiques de tels sites et ne peut être tenu responsable de ce contenu, de ces caractéristiques ou de quelque dommage que ce soit lié à l’utilisation de ces sites internet."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Droit applicable et tribunaux compétents</strong><br/> Ces conditions générales sont régies, interprétées et exécutées conformément au droit luxembourgeois, seul droit applicable en cas de litige.<br/> Remarque : En cas d’achat à partir de l’étranger, le client devient importateur dans son pays ; il devra alors acquitter toutes les taxes locales selon la législation en vigueur dans son pays."
+        },
+        {
+          "type": "p",
+          "html": "<strong>L’utilisation des cookies</strong><br/> Lors de votre visite, des cookies peuvent être installés sur le disque dur de votre ordinateur et ceci afin d’améliorer le service offert par le site internet pour des utilisateurs lors des prochaines visites au site internet. Ces petits fichiers ou cookies ne sont pas utilisés à des fins d’analyse de votre comportement en ligne sur d’autres sites internet. Vous pouvez désactiver l’utilisation de cookies ou adapter le niveau des alertes et demandes d’autorisation envoyées avant l’installation des cookies dans les paramètres de votre moteur de recherche. Vous trouverez plus d’information dans la section aide de votre moteur de recherche."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "fr",
+      "path": "/politique-en-matiere-de-cookies",
+      "title": "Politique en matière de cookies - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Politique en matière de cookies"
+        },
+        {
+          "type": "p",
+          "html": "Nous (Pharmacie Ginkgo., dont le siège social est établi Rue Joseph Hansen 15, L-1716 Luxembourg, inscrite à la TVA sous le numéro LU21651466) souhaitons vous informer de la façon dont nous utilisons les cookies sur notre site web (www.ginkgo.lu) et comment vous pouvez les gérer."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Que sont les cookies ?</strong><br/> Un cookie est un petit fichier envoyé par le serveur de Pharmacie Ginkgo et placé sur le disque dur de votre ordinateur. Nous seuls pouvons lire les informations enregistrées par ces cookies, et ce, uniquement pendant la durée de votre visite sur notre site web."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Pourquoi utilisons-nous des cookies ?</strong><br/> Notre site web utilise des cookies et d’autres technologies similaires afin de distinguer vos préférences d’utilisation de celles des autres utilisateurs de notre site web. Cela nous permet de vous proposer une expérience d’utilisation plus conviviale lors de votre visite sur notre site web et d’optimiser celui-ci.<br/> À la suite des récentes modifications législatives, tous les sites web qui s’adressent à certaines parties de l’Union européenne sont obligés de demander votre accord pour l’utilisation et la sauvegarde de cookies et d’autres technologies similaires sur votre ordinateur ou appareil mobile. La présente politique en matière de cookies vous fournit des informations claires et complètes concernant les cookies que nous utilisons et leur but."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Les types de cookies</strong><br/> Bien qu’il existe plusieurs types de cookies, qui se distinguent par leur fonction, leur origine ou leur durée de conservation, la législation distingue principalement les cookies fonctionnels ou techniquement nécessaires d’une part et tous les autres cookies d’autre part."
+        },
+        {
+          "type": "p",
+          "html": "Cookies indispensables<br/> Ces cookies sont requis pour permettre la visite de nos sites Internet et l’utilisation de certaines de leurs parties. Ils vous permettent par exemple de naviguer entre les différentes rubriques du site Internet ou de remplir des formulaires. Si vous refusez ces cookies, certaines rubriques du site Internet ne fonctionneront pas de manière optimale, voire pas du tout."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Cookies fonctionnels</strong><br/> Les cookies fonctionnels sont des cookies destinés à faciliter le fonctionnement de nos sites Internet, à en rendre l’utilisation plus agréable pour le visiteur et à vous donner une expérience de navigation plus personnalisée. Il s’agit par exemple des cookies qui retiennent vos préférences."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Cookies tiers</strong><br/> Le site Internet contient également des éléments émanant de tiers, tels que des services audiovisuels, des boutons propres aux médias sociaux ou des publicités."
+        },
+        {
+          "type": "table",
+          "html": "<table><tr><td><strong>Nom</strong></td><td><strong>Fonction</strong></td><td><strong>Durée de conservation</strong></td></tr><tr><td>Google Analytics</td><td>Ces cookies recueillent des informations analytiques sur nos clients en ligne.</td><td>24 mois</td></tr><tr><td>Google Tag Manager</td><td>Ces cookies sont utilisés pour tester et déboguer le Google Tag Manager.</td><td>Après la session</td></tr></table>"
+        },
+        {
+          "type": "p",
+          "html": "Pour les cookies placés par des tiers (notamment par Google Analytics), nous vous invitons à consulter les déclarations de ces tiers sur leurs sites web respectifs. Attention : nous n’avons aucune influence sur le contenu de ces déclarations ni sur le contenu des cookies de ces tiers : Cookies Google Analytics."
+        },
+        {
+          "type": "p",
+          "html": "Pour toute autre question ou remarque relative au traitement de vos données à caractère personnel, contactez-nous par e-mail à l’adresse pharmacie@ginkgo.lu. Vous pouvez aussi envoyer un courrier à l’adresse postale suivante : À l’attention de Pharmacie Ginkgo – Data Protection Officer, Val Sainte Croix 3, L-1371 Luxembourg.<br/> Retrouvez plus d’informations sur les cookies sur : http://www.allaboutcookies.org/.<br/> Retrouvez plus d’informations sur la publicité comportementale en ligne et la confidentialité en ligne sur : http://www.youronlinechoices.eu/."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "en",
+      "path": "/en",
+      "title": "Pharmacy Val Sainte-Croix Luxembourg - Ginkgo",
+      "description": "The Ginkgo pharmacy welcomes you in 6 languages from monday to saturday. Mother and baby pharmacy advice, Covid test, Sudoscan, asthma advice point, parapharmacy, treatment blistering, breast pump rental, medical compression...",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Welcome to Ginkgo Pharmacy"
+        },
+        {
+          "type": "p",
+          "html": "Mrs. Claude Hostert-Pfeiffer, pharmacist and her team welcome you in the heart of the Val Sainte-Croix district from Monday to Saturday."
+        },
+        {
+          "type": "p",
+          "html": "Benefit from the advice of a team of multilingual professionals trained in all health topics."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services"
+        },
+        {
+          "type": "h1",
+          "html": "14 professionals at the service of your health and well-being!"
+        },
+        {
+          "type": "p",
+          "html": "More than a pharmacy, Ginkgo is <a href=\"/en/services\">a space for health, advice and services</a> for the whole family. Our team composed of 5 pharmacists, 4 preparers, 2 pharmacy assistants, 2 pharmacy aides and 1 beautician is at your service to act in favor of prevention and access to health for all."
+        },
+        {
+          "type": "p",
+          "html": "To save you time, we offer you the opportunity to <a href=\"/en/send-your-prescription\"> reserve your medications</a> in advance. Send us your prescription using the form designed for this purpose and you will only have to come and pick them up on site in our pharmacy. Upon delivery of your order, we will provide you with the necessary associated advice."
+        },
+        {
+          "type": "p",
+          "html": "We also do the rapid antigen tests by nasal swab. You get the result of <a href=\"/en/covid-test\">your Covid test</a> in 15 minutes in the form of a European certificate with QR code."
+        },
+        {
+          "type": "h3",
+          "html": "An ideal location between the CHL and the Place de l’étoile!"
+        },
+        {
+          "type": "p",
+          "html": "Parking spaces are available for customers in front of the pharmacy.<br/> Close to public transportation (bus 8 and 12) and the Stäreplaz/Étoile streetcar stop."
+        },
+        {
+          "type": "h3",
+          "html": "A multilingual team"
+        },
+        {
+          "type": "p",
+          "html": "Benefit from the advice of a team of multilingual professionals trained in all health topics."
+        },
+        {
+          "type": "h3",
+          "html": "For your health and well-being!"
+        },
+        {
+          "type": "p",
+          "html": "Mrs. Claude Hostert-Pfeiffer and her team welcome you from Monday to Friday from 8:30 am to 6:30 pm and on Saturday from 8:30 am to 12:30 pm."
+        },
+        {
+          "type": "h2",
+          "html": "Our advice and expertise<br/> for your health."
+        },
+        {
+          "type": "h4",
+          "html": "Medical Compression"
+        },
+        {
+          "type": "p",
+          "html": "We offer you a personalized service of taking your measurements!"
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/medical-compression"
+        },
+        {
+          "type": "h4",
+          "html": "Blistering of medicines"
+        },
+        {
+          "type": "p",
+          "html": "Blistering in individual doses makes it easier to take medication."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/blistering-of-medicines"
+        },
+        {
+          "type": "h4",
+          "html": "Breast pump rental"
+        },
+        {
+          "type": "p",
+          "html": "Convenient! Rent your Medela breast pump for 6 months or more."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/breast-pump-rental-in-luxembourg"
+        },
+        {
+          "type": "h4",
+          "html": "Neuropathy Prevention Center (by sudoscan)"
+        },
+        {
+          "type": "p",
+          "html": "Get information on diabetes and book your Sudoscan test."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/prevention-of-neuropathy"
+        },
+        {
+          "type": "h4",
+          "html": "Support for asthma patients"
+        },
+        {
+          "type": "p",
+          "html": "Benefit from specialized support in the treatment of your asthma."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/pharmacy-advice-for-people-with-asthma"
+        },
+        {
+          "type": "h4",
+          "html": "Nutritherapy"
+        },
+        {
+          "type": "p",
+          "html": "Find the biggest brands of nutritherapy and benefit from our advice."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/nutritherapy"
+        },
+        {
+          "type": "h4",
+          "html": "Magistral preparation"
+        },
+        {
+          "type": "p",
+          "html": "Quickly! Your magistral preparations (herbal teas, capsules, creams, lotions, suppositories) made in our laboratory."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/magistral-preparation"
+        },
+        {
+          "type": "h4",
+          "html": "Parapharmacy"
+        },
+        {
+          "type": "p",
+          "html": "The biggest brands of parapharmacy are at the Ginkgo pharmacy."
+        },
+        {
+          "type": "cta",
+          "label": "More info",
+          "href": "/en/services/parapharmacy"
+        },
+        {
+          "type": "h2",
+          "html": "Our main brands of parapharmacy"
+        },
+        {
+          "type": "p",
+          "html": "The Ginkgo pharmacy has carefully selected major brands of parapharmacy products for your well-being and health. The Ginkgo pharmacy also thinks about the needs of the whole family by offering pharmaceutical products adapted to your children."
+        },
+        {
+          "type": "h4",
+          "html": "Parapharmacy"
+        },
+        {
+          "type": "h4",
+          "html": "Baby"
+        },
+        {
+          "type": "h4",
+          "html": "Medical"
+        },
+        {
+          "type": "h4",
+          "html": "Hair"
+        },
+        {
+          "type": "h4",
+          "html": "Phytotherapy"
+        },
+        {
+          "type": "h4",
+          "html": "Make-up"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/ginkgo_270412_001.png",
+          "alt": "ginkgo",
+          "local": "/media/ginkgo_270412_001.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-awesome-parking.svg",
+          "alt": "parking",
+          "local": "/media/Icon-awesome-parking.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-metro-language.svg",
+          "alt": "langue",
+          "local": "/media/Icon-metro-language.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/flags.svg",
+          "alt": "flag",
+          "local": "/media/flags.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Icon-material-speaker-notes.svg",
+          "alt": "conseils",
+          "local": "/media/Icon-material-speaker-notes.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-29.jpg",
+          "alt": "compression medicale",
+          "local": "/media/Mask-Group-29.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-30.jpg",
+          "alt": "médicaments",
+          "local": "/media/Mask-Group-30.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-31.png",
+          "alt": "tire-lait",
+          "local": "/media/Mask-Group-31.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Group-91.png",
+          "alt": "sudoscan",
+          "local": "/media/Group-91.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-32.jpg",
+          "alt": "prévention",
+          "local": "/media/Mask-Group-32.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-14.png",
+          "alt": "nutritherapie",
+          "local": "/media/Mask-Group-14.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-16.jpg",
+          "alt": "Préparation magistrale",
+          "local": "/media/Mask-Group-16.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Pharmacie.png",
+          "alt": "Parapharmacie",
+          "local": "/media/Pharmacie.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-21.png",
+          "alt": "apivita",
+          "local": "/media/Mask-Group-21.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-22.png",
+          "alt": "avène",
+          "local": "/media/Mask-Group-22.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/caudalie-logo.png",
+          "alt": "caudalie",
+          "local": "/media/caudalie-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image003.png",
+          "alt": "",
+          "local": "/media/image003.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/eucerin-logo.png",
+          "alt": "eucerin",
+          "local": "/media/eucerin-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-23.png",
+          "alt": "roche",
+          "local": "/media/Mask-Group-23.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image002.png",
+          "alt": "",
+          "local": "/media/image002.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Lierac-Symbole.png",
+          "alt": "lierac",
+          "local": "/media/Lierac-Symbole.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/louis-widmer-logo-1.png",
+          "alt": "louis widmer",
+          "local": "/media/louis-widmer-logo-1.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/nuxe-bio.png",
+          "alt": "nuxe",
+          "local": "/media/nuxe-bio.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Vichy-Logo.png",
+          "alt": "Vichy",
+          "local": "/media/Vichy-Logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-17.png",
+          "alt": "avent",
+          "local": "/media/Mask-Group-17.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-18.png",
+          "alt": "klorane",
+          "local": "/media/Mask-Group-18.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/medela-logo.png",
+          "alt": "medela",
+          "local": "/media/medela-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mustela-Logo.png",
+          "alt": "mustela",
+          "local": "/media/Mustela-Logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-20.png",
+          "alt": "aderma",
+          "local": "/media/Mask-Group-20.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/ducray-logo.png",
+          "alt": "ducray",
+          "local": "/media/ducray-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image005.png",
+          "alt": "",
+          "local": "/media/image005.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/svr-logo.png",
+          "alt": "svr",
+          "local": "/media/svr-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/Mask-Group-19.png",
+          "alt": "dercos",
+          "local": "/media/Mask-Group-19.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image006.png",
+          "alt": "",
+          "local": "/media/image006.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/apivita-logo.png",
+          "alt": "apivita",
+          "local": "/media/apivita-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/phyto-logo.png",
+          "alt": "phyto",
+          "local": "/media/phyto-logo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2021/09/arkopharma.png",
+          "alt": "arkopharma",
+          "local": "/media/arkopharma.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image004.png",
+          "alt": "",
+          "local": "/media/image004.png"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/about-us",
+      "title": "Who are we ? - Ginkgo Pharmacy",
+      "description": "At your side since 2007! Get to know the members of our team and discover the history of our pharmacy in Luxembourg.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Our history"
+        },
+        {
+          "type": "p",
+          "html": "In 2007, Claude Hostert-Pfeiffer, pharmacist, took over one of the oldest pharmacies in Luxembourg, the “Mouerenapdikt”. Since then, the pharmacy has moved and also changed its name. It is now called Ginkgo-Apdikt in reference to the oldest tree on earth: the Ginkgo biloba."
+        },
+        {
+          "type": "cta",
+          "label": "From the Mouerenapdikt to the Ginkgo Pharmacy, 217 years of history in photos",
+          "href": "#history"
+        },
+        {
+          "type": "h2",
+          "html": "An ideal location"
+        },
+        {
+          "type": "p",
+          "html": "In 2009, the pharmacy moves to its brand new premises at <strong>3 Val Sainte-Croix </strong>near the public transportation of the Place de l’Étoile but also the CHL."
+        },
+        {
+          "type": "h2",
+          "html": "Customer service and listening above all"
+        },
+        {
+          "type": "p",
+          "html": "The pharmacy is committed to a process of <strong>continuous training of its staff </strong>to offer you trained staff in many specialties: asthma, diabetes, hypertension, nutritherapy, aromatherapy, breastfeeding…"
+        },
+        {
+          "type": "cta",
+          "label": "Discover our services",
+          "href": "/en/services"
+        },
+        {
+          "type": "h3",
+          "html": "A reference pharmacy for breastfeeding mothers"
+        },
+        {
+          "type": "p",
+          "html": "Our pharmacy aims to be a place of listening and <strong>advice for breastfeeding mothers</strong>. From breast pump rentals to the transition from breast milk to solid food, we accompany moms on their breastfeeding journey."
+        },
+        {
+          "type": "cta",
+          "label": "More information",
+          "href": "/en/services/breast-pump-rental-in-luxembourg"
+        },
+        {
+          "type": "h3",
+          "html": "An advice point for asthmatics"
+        },
+        {
+          "type": "p",
+          "html": "The Ginkgo pharmacy participates in the pilot project “<strong>Better Living with Asthma</strong>” and in a meeting by appointment accompanies asthma patients in the management of their disease and taking their treatment."
+        },
+        {
+          "type": "cta",
+          "label": "More information",
+          "href": "/en/services/pharmacy-advice-for-people-with-asthma"
+        },
+        {
+          "type": "h3",
+          "html": "Real expertise in diabetes management"
+        },
+        {
+          "type": "p",
+          "html": "Ginkgo is committed to fighting diabetes-related complications. The pharmacy offers Sudoscan tests for early detection of peripheral neuropathy. A preventive means available to diabetic patients or any other patient."
+        },
+        {
+          "type": "cta",
+          "label": "More information",
+          "href": "/en/services/prevention-of-neuropathy"
+        },
+        {
+          "type": "h3",
+          "html": "Our team"
+        },
+        {
+          "type": "p",
+          "html": "Ginkgo-Apdikt is a team of health professionals who are present every day to advise and listen to you. The pharmacy is committed to a process of continuous training of its staff to offer you specialists in many fields: asthma, diabetes, nutritherapy, aromatherapy, breastfeeding…"
+        },
+        {
+          "type": "h2",
+          "html": "From the moren apdikt – to the Ginkgo apdikt pharmacy over the years"
+        },
+        {
+          "type": "h5",
+          "html": "2009"
+        },
+        {
+          "type": "p",
+          "html": "Move to 3, val Ste. Croix"
+        },
+        {
+          "type": "h5",
+          "html": "2007"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacist:<br/> Claude Hostert-Pfeiffer (*1968)"
+        },
+        {
+          "type": "h5",
+          "html": "1953"
+        },
+        {
+          "type": "p",
+          "html": "Move to 8, Grand-Rue : Robert Widung (*1942)"
+        },
+        {
+          "type": "h5",
+          "html": "1933"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacist: Edouard Widung (1906-1991)"
+        },
+        {
+          "type": "h5",
+          "html": "1921"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacist: Jacques Bos"
+        },
+        {
+          "type": "h5",
+          "html": "1899"
+        },
+        {
+          "type": "p",
+          "html": "Move to 16, Grand-Rue – Nicolas Klees"
+        },
+        {
+          "type": "h5",
+          "html": "1872"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacist: Corneile Schroeder (*1844)"
+        },
+        {
+          "type": "h5",
+          "html": "1871"
+        },
+        {
+          "type": "p",
+          "html": "Pharmacist: Louis-Charles Rothermel (1845-1872)"
+        },
+        {
+          "type": "h5",
+          "html": "1832"
+        },
+        {
+          "type": "p",
+          "html": "Move to 18, Grand-Rue – Nicolas Rothermel (1805-1871)"
+        },
+        {
+          "type": "h5",
+          "html": "1803"
+        },
+        {
+          "type": "p",
+          "html": "Concession created in 1803 – Alfred Lenoël (1774-1849)"
+        },
+        {
+          "type": "p",
+          "html": "Copyright: photo library of the City of Luxembourg"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/GP-8.jpg",
+          "alt": "ginkgo",
+          "local": "/media/GP-8.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-69-1.jpg",
+          "alt": "tire lait",
+          "local": "/media/Mask-Group-69-1.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-108.jpg",
+          "alt": "conseils",
+          "local": "/media/Mask-Group-108.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-109.jpg",
+          "alt": "sudoscan",
+          "local": "/media/Mask-Group-109.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2023/02/Path-45.png",
+          "alt": "ginkgo",
+          "local": "/media/Path-45.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-175.png",
+          "alt": "ginkgo 2021",
+          "local": "/media/Group-175.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-177.png",
+          "alt": "ginkgo 1940-1945",
+          "local": "/media/Group-177.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-176.png",
+          "alt": "ginkgo 1953",
+          "local": "/media/Group-176.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-178.png",
+          "alt": "ginkgo 1915",
+          "local": "/media/Group-178.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-180.png",
+          "alt": "ginkgo 1898",
+          "local": "/media/Group-180.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/03/Group-179.png",
+          "alt": "ginkgo 1906",
+          "local": "/media/Group-179.png"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/send-your-prescription",
+      "title": "Ginkgo Pharmacy: order your medication online",
+      "description": "Save time, send us from our website your order of medicines, with or without prescription, and come to collect them in our pharmacy.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Send us your medical prescription"
+        },
+        {
+          "type": "p",
+          "html": "First name<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Last name<br/>"
+        },
+        {
+          "type": "p",
+          "html": "E-mail<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Date of birth<br/>"
+        },
+        {
+          "type": "p",
+          "html": "Phone number<br/>"
+        },
+        {
+          "type": "p",
+          "html": "At least one of the two fields below must be filled in for your request to be validated."
+        },
+        {
+          "type": "p",
+          "html": "❌"
+        },
+        {
+          "type": "p",
+          "html": "Leave us your message.<br/>"
+        },
+        {
+          "type": "p",
+          "html": "By submitting the form, you declare that you have read and accept the privacy policy and the general terms of use. In particular, we will process personal data in the context of the remote ordering system."
+        },
+        {
+          "type": "p",
+          "html": "I have read and agree to the privacy policy and terms of use."
+        },
+        {
+          "type": "p",
+          "html": "Thank you for sending us your order, we will notify you by e-mail or telephone or SMS to invite you to come and collect it from our pharmacy"
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "en",
+      "path": "/en/services",
+      "title": "Our main services - Ginkgo Pharmacy",
+      "description": "Benefit from the advice of a team of multilingual professionals trained in all health topics from Monday to Friday from 8:30 am to 6:30 pm and Saturday from 8:30 am to 12:30 pm.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "The services of the Ginkgo pharmacy"
+        },
+        {
+          "type": "h4",
+          "html": "Medical Compression"
+        },
+        {
+          "type": "p",
+          "html": "We offer you a personalized service of taking your measurements!"
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/medical-compression"
+        },
+        {
+          "type": "h4",
+          "html": "Blistering of medicines"
+        },
+        {
+          "type": "p",
+          "html": "Blistering in individual doses makes it easier to take medication."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/blistering-of-medicines"
+        },
+        {
+          "type": "h4",
+          "html": "Breast pump rental"
+        },
+        {
+          "type": "p",
+          "html": "Convenient! Rent your Medela breast pump for 6 months or more."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/breast-pump-rental-in-luxembourg"
+        },
+        {
+          "type": "h4",
+          "html": "Neuropathy Prevention Center (by Sudoscan)"
+        },
+        {
+          "type": "p",
+          "html": "Get information on diabetes and book your Sudoscan test."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/prevention-of-neuropathy"
+        },
+        {
+          "type": "h4",
+          "html": "Pharmaceutical maintenance for asthma patients"
+        },
+        {
+          "type": "p",
+          "html": "The Ginkgo Pharmacy is a place where people with asthma can get advice and support."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/pharmacy-advice-for-people-with-asthma"
+        },
+        {
+          "type": "h4",
+          "html": "Nutritherapy"
+        },
+        {
+          "type": "p",
+          "html": "Find the biggest brands of nutritherapy and benefit from our advice."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/nutritherapy"
+        },
+        {
+          "type": "h4",
+          "html": "Magistral preparation"
+        },
+        {
+          "type": "p",
+          "html": "Fast! Your magistral preparations made in our laboratory."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/magistral-preparation"
+        },
+        {
+          "type": "h4",
+          "html": "Parapharmacy"
+        },
+        {
+          "type": "p",
+          "html": "The biggest brands of parapharmacy are at the Ginkgo pharmacy."
+        },
+        {
+          "type": "cta",
+          "label": "Read more",
+          "href": "/en/services/parapharmacy"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/compressionMedicale.png",
+          "alt": "compression medicale",
+          "local": "/media/compressionMedicale.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Blisteration.png",
+          "alt": "Blistérisation des médicaments",
+          "local": "/media/Blisteration.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/tirelait.png",
+          "alt": "Location de tire-lait",
+          "local": "/media/tirelait.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/SudoScan.png",
+          "alt": "Sudoscan",
+          "local": "/media/SudoScan.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/asthmatique.png",
+          "alt": "asthmatique",
+          "local": "/media/asthmatique.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Nutritherapie.png",
+          "alt": "Nutrithérapie",
+          "local": "/media/Nutritherapie.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Preparation.png",
+          "alt": "Préparation magistrale",
+          "local": "/media/Preparation.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Pharmacie.png",
+          "alt": "Parapharmacie",
+          "local": "/media/Pharmacie.png"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/medical-compression",
+      "title": "Medical compression stockings and tights - Ginkgo Pharmacy",
+      "description": "Find stockings, tights and other compression accessories for sports, pregnancy or everyday use in our pharmacy. Measurements taken by appointment and advice.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Medical compression :<br/> compression socks, stockings and tights"
+        },
+        {
+          "type": "p",
+          "html": "Venous problems, pregnancy, water retention, especially during long trips… are the most common reasons for using a medical compression solution. The Ginkgo pharmacy takes measurements in the pharmacy and offers you a selection of stockings, socks and compression tights from the brands <strong>Bauerfeind</strong> and <strong>Sigvaris</strong>."
+        },
+        {
+          "type": "cta",
+          "label": "Make an appointment",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "Our medical restraint brands"
+        },
+        {
+          "type": "p",
+          "html": "We have chosen to work with two of the leading brands in medical compression: Sigvaris and Bauerfeind."
+        },
+        {
+          "type": "h3",
+          "html": "Sigvaris"
+        },
+        {
+          "type": "p",
+          "html": "The Sigvaris medical compression range is distinguished by the diversity of its products and their style. At Sigavris, you will find :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Compression socks",
+            "Compression stockings",
+            "Compression tights",
+            "Maternity compression tights"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "The brand offers a compressive solution in adequacy with your need or your pathology:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Heavy / swollen legs",
+            "Varicosities",
+            "Varicose veins",
+            "Venous edema",
+            "Travel",
+            "Pregnancy",
+            "Standing work",
+            "Sport"
+          ]
+        },
+        {
+          "type": "h3",
+          "html": "Bauerfeind"
+        },
+        {
+          "type": "p",
+          "html": "Bauerfeind is a German brand that has been providing medical compression solutions since 1929:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Light to moderate medical venous compression",
+            "Medical compression for pregnant women"
+          ]
+        },
+        {
+          "type": "h3",
+          "html": "Partial reimbursement of your stockings, tights or support socks"
+        },
+        {
+          "type": "p",
+          "html": "<strong>The NHA covers 60% of the costs</strong> of your medical compression solution. A medical prescription is required for this."
+        },
+        {
+          "type": "p",
+          "html": "Do you have a question about the reimbursement of your medical compression solution? Our team will help you to see more clearly."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-94.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-94.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-83.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-83.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-84.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-84.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-85.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-85.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-86.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-86.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-87.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-87.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-88.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-88.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-89.jpg",
+          "alt": "Compression médicale",
+          "local": "/media/Mask-Group-89.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Sigvaris-logo.jpg",
+          "alt": "sigvaris",
+          "local": "/media/Sigvaris-logo.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-124.jpg",
+          "alt": "Bauerfeind",
+          "local": "/media/Group-124.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/blistering-of-medicines",
+      "title": "Blistering of medicines in Luxembourg : Pharmacie Ginkgo",
+      "description": "Long-term treatment? We help you to simplify the taking of your medication with our blister packaging service: individual packaging according to the schedule",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Blistering of medicines carried out in Luxembourg"
+        },
+        {
+          "type": "p",
+          "html": "You or a loved one must <strong>take several medications daily </strong>? You need a safe and effective solution to simplify taking your medication and <strong>reduce missed doses </strong>? The Ginkgo pharmacy offers you its medication blistering service."
+        },
+        {
+          "type": "cta",
+          "label": "Find out more",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>What is medicine blistering?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Drug blistering is a system of sorting and individualized packaging of medications to <strong>simplify taking one’s medications</strong>. Medications are sorted by intake, which reduces the risk of confusion between multiple pills."
+        },
+        {
+          "type": "h3",
+          "html": "Who is this service for?"
+        },
+        {
+          "type": "p",
+          "html": "The service is aimed at people who have to take several medications a day for a long period of time. It is useful for :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Elderly people who need to take chronic medication",
+            "Patients who are afraid of forgetting or confusing one or more medications",
+            "One-time or permanent caregivers of a person with a treatment to take",
+            "Elderly people who still live at home and have to take their medication alone"
+          ]
+        },
+        {
+          "type": "h3",
+          "html": "How do I get my medications blistered?"
+        },
+        {
+          "type": "p",
+          "html": "Together with you <strong>we build your medication plan</strong>."
+        },
+        {
+          "type": "p",
+          "html": "The pouches containing your tablets and capsules are labeled with your name, the date of manufacture, the name of the medication and the time of intake.<br/> You are immediately notified of the availability of your treatment."
+        },
+        {
+          "type": "h3",
+          "html": "Is the blistering service free?"
+        },
+        {
+          "type": "p",
+          "html": "The service is reimbursed for people in nursing homes."
+        },
+        {
+          "type": "p",
+          "html": "For individuals, there is a charge for the blistering service."
+        },
+        {
+          "type": "p",
+          "html": "DKV insurance offers partial coverage for individuals."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-67.jpg",
+          "alt": "Blistérisation des médicaments",
+          "local": "/media/Mask-Group-67.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/breast-pump-rental-in-luxembourg",
+      "title": "Breast pump rental in Luxembourg : Pharmacie Ginkgo",
+      "description": "Rent a Medela breast pump for the duration of your breastfeeding period. Rental contract up to 6 months renewable. Professional quality equipment and breastfeeding advice.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Breast pump rental in Luxembourg"
+        },
+        {
+          "type": "p",
+          "html": "As a consulting pharmacy specializing in <strong>helping breastfeeding moms</strong>, Ginkgo Pharmacy offers a breast pump rental service. <strong>Our location near the CHL</strong>, allows us to accompany you from the moment you leave the maternity ward."
+        },
+        {
+          "type": "cta",
+          "label": "Rent a breast pump",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Medela breast pump rental</strong>"
+        },
+        {
+          "type": "p",
+          "html": "We have chosen to work with the brand <strong>MEDELA</strong>. We offer moms a Medela Symphony breast pump rental service. Model offered in hospitals <strong>the Medela Symphony electric breast pump </strong>was designed to assist moms throughout the breastfeeding process. It reproduces the natural sucking gesture of the baby when he/she heads. Pumping your milk is <strong>quick and comfortable</strong>."
+        },
+        {
+          "type": "h3",
+          "html": "Rent a breast pump in Luxembourg"
+        },
+        {
+          "type": "p",
+          "html": "Would you like to rent a breast pump? Just contact our pharmacy. The rental is made for a period at your convenience with a maximum of 6 months renewable."
+        },
+        {
+          "type": "h3",
+          "html": "What should I do if I have trouble expressing my milk?"
+        },
+        {
+          "type": "p",
+          "html": "If you encounter difficulties during your breastfeeding or simply if you have questions, our team of pharmacists trained in breastfeeding issues is at your disposal. You can contact them at any time for advice on how to best breastfeed your baby."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-132.jpg",
+          "alt": "medela",
+          "local": "/media/Group-132.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-69.jpg",
+          "alt": "tire lait",
+          "local": "/media/Mask-Group-69.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/prevention-of-neuropathy",
+      "title": "Sudoscan test for the prevention of neuropathy: Ginkgo Pharmacy",
+      "description": "Do you have diabetes? Take your Sudoscan test at the Ginkgo pharmacy and receive advice from professionals trained in the management of diabetic patients.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Sudoscan test for the prevention of diabetic neuropathy"
+        },
+        {
+          "type": "p",
+          "html": "Diabetic? The Ginkgo Pharmacy is a <strong>hosting and information point for people with diabetes</strong>. Advice and prevention are at the heart of our action. We also offer you the Sudoscan test to detect possible complications quickly."
+        },
+        {
+          "type": "cta",
+          "label": "Make an appointment",
+          "href": "#contact"
+        },
+        {
+          "type": "h3",
+          "html": "<strong>What is Sudoscan?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "A person with diabetes may experience complications involving the entire autonomic nervous system. Sudoscan is a test that evaluates the small peripheral nerve fibers found in the sweat glands of the hands and feet."
+        },
+        {
+          "type": "p",
+          "html": "Did you know: <strong>A Sudoscan test takes 2 minutes and is completely painless</strong>. It can be done in our pharmacy by appointment. Depending on the result of your test, we invite you to consult your doctor."
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Benefits of Sudoscan</strong>"
+        },
+        {
+          "type": "h3",
+          "html": "Speed"
+        },
+        {
+          "type": "p",
+          "html": "No patient preparation"
+        },
+        {
+          "type": "p",
+          "html": "Results in 3 minutes"
+        },
+        {
+          "type": "p",
+          "html": "Easy reading of essential data to help physicians make a diagnosis."
+        },
+        {
+          "type": "h3",
+          "html": "Security"
+        },
+        {
+          "type": "p",
+          "html": "Non-invasive examination"
+        },
+        {
+          "type": "p",
+          "html": "No need to fast"
+        },
+        {
+          "type": "p",
+          "html": "Easy to use"
+        },
+        {
+          "type": "h3",
+          "html": "Ginkgo and the Maison du Diabète"
+        },
+        {
+          "type": "p",
+          "html": "The Ginkgo pharmacy collaborates with the <a href=\"https://www.ald.lu\" target=\"_blank\" rel=\"noopener noreferrer\">Maison du Diabète</a> to provide clear answers to diabetic patients. In addition to the Sudoscan, we have pharmacists trained in diabetes issues."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Logo-sudoscan-2.jpg",
+          "alt": "sudoscan",
+          "local": "/media/Logo-sudoscan-2.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-80.jpg",
+          "alt": "prevention",
+          "local": "/media/Mask-Group-80.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-127.svg",
+          "alt": "Rapidité",
+          "local": "/media/Group-127.svg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-129.svg",
+          "alt": "Sécurité",
+          "local": "/media/Group-129.svg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/pharmacy-advice-for-people-with-asthma",
+      "title": "Pharmacy specialized in the follow-up of asthmatics in Luxembourg",
+      "description": "Asthmatic? Our pharmacy has integrated the pilot program of pharmaceutical maintenance for asthmatic patients. Take advantage of our advice and follow-up.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Pharmacy advice for people with asthma"
+        },
+        {
+          "type": "p",
+          "html": "The Ginkgo Pharmacy is a <strong>place to listen and advise for people with asthma</strong>. We are participating in the pilot project “Living Better with Asthma” to help you with your daily management of your disease."
+        },
+        {
+          "type": "cta",
+          "label": "Make an appointment",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>What does the coaching consist of?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "<strong>Our personalized support</strong> for asthma patients meets the requirements of the pilot project. In this context, we offer you 2 interviews of 20 minutes to answer all your questions about your disease and your treatment."
+        },
+        {
+          "type": "p",
+          "html": "This service also consists of listening to you and finding solutions adapted to the difficulties you encounter in managing your illness."
+        },
+        {
+          "type": "p",
+          "html": "Our goal? To improve your quality of life through personalized advice and solutions."
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/04/Group-182.jpg",
+          "alt": "ginkgo",
+          "local": "/media/Group-182.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/nutritherapy",
+      "title": "Nutritherapy, advice and products : Pharmacie Ginkgo",
+      "description": "Benefit from the advice of a pharmacist trained in nutritherapy and find the best nutritherapy brands at the Ginkgo pharmacy.",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Our nutritherapy department"
+        },
+        {
+          "type": "p",
+          "html": "Our diet includes a balanced diet and, if necessary, the addition of food supplements to meet specific needs. <strong>Our pharmacist specialized in nutritherapy</strong> accompanies and advises you."
+        },
+        {
+          "type": "cta",
+          "label": "Contact the pharmacy",
+          "href": "#contact"
+        },
+        {
+          "type": "h3",
+          "html": "<strong>Why use nutritherapy?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "If a healthy and varied diet is in principle sufficient to meet our nutritional needs, it can be supplemented by food supplements to optimize health and intellectual performance or to delay the effects of aging."
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Ginkgo Pharmacy, your specialist in nutritherapy</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Faced with the wide range of food supplements on the market, we have decided to train part of our team in nutritherapy in order to better assist our customers. One of our employees will help you in the choice of your food supplements and guide you in your protocol."
+        },
+        {
+          "type": "h2",
+          "html": "<strong>Find the biggest brands of nutritherapy in our pharmacy:</strong>"
+        },
+        {
+          "type": "h4",
+          "html": "Inovance"
+        },
+        {
+          "type": "h4",
+          "html": "Ixx pharma"
+        },
+        {
+          "type": "h4",
+          "html": "Metagenics"
+        },
+        {
+          "type": "h4",
+          "html": "Pileje"
+        },
+        {
+          "type": "h4",
+          "html": "Therascience"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-68.jpg",
+          "alt": "nutrithérapie",
+          "local": "/media/Mask-Group-68.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-137.jpg",
+          "alt": "Inovance",
+          "local": "/media/Group-137.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-136.jpg",
+          "alt": "Ixx pharma",
+          "local": "/media/Group-136.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-135.jpg",
+          "alt": "Metagenics",
+          "local": "/media/Group-135.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-134.jpg",
+          "alt": "Pileje",
+          "local": "/media/Group-134.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-133.jpg",
+          "alt": "Therascience",
+          "local": "/media/Group-133.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/magistral-preparation",
+      "title": "Magistral preparation in Luxembourg : Pharmacie Ginkgo",
+      "description": "Our team of pharmacy preparers makes all your magistral preparations: syrups, ointments, ointments, capsules, drops...",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Realization of your magistral preparations"
+        },
+        {
+          "type": "p",
+          "html": "Some treatments require the intervention of a compounding pharmacist before they can be administered. At Ginkgo Pharmacy, <strong>we make your compounding preparations in our laboratory</strong>."
+        },
+        {
+          "type": "cta",
+          "label": "Contact the pharmacy",
+          "href": "#contact"
+        },
+        {
+          "type": "h2",
+          "html": "<strong>The ginkgo team</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Our team is composed of health professionals specialized in various fields. Among them, pharmacy preparers in charge of making your pharmaceutical preparations:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Syrups ;",
+            "Capsules ;",
+            "Ointments ;",
+            "Drops ;",
+            "Suppositories ;",
+            "Etc."
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-76.jpg",
+          "alt": "preparation",
+          "local": "/media/Mask-Group-76.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-77.jpg",
+          "alt": "preparation",
+          "local": "/media/Mask-Group-77.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/services/parapharmacy",
+      "title": "Our parapharmacy brands : Pharmacie Ginkgo",
+      "description": "Find the biggest brands of parapharmacy in our pharmacy: Vichy, Lierac, SVR, Mustela, Baby Pure, Ducray, Klorane, Louis Widmer, Avent, Caudalie...",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "The biggest brands of parapharmacy are at the Ginkgo pharmacy"
+        },
+        {
+          "type": "p",
+          "html": "Apivita, Caudalie, Lierac, Nuxe, Vichy, SVR, Ducray, Dercos, Arkogélules, Mustela, Louis Widmer… <strong>Find your favorite brands of parapharmacy </strong>in our dedicated department. Benefit from our advice to find the products best suited to your skin, your hair and the care of your baby."
+        },
+        {
+          "type": "h2",
+          "html": "The medical parapharmacy"
+        },
+        {
+          "type": "p",
+          "html": "The Ginkgo pharmacy offers you parapharmacy products from the biggest medical brands:"
+        },
+        {
+          "type": "h2",
+          "html": "The parapharmacy for babies"
+        },
+        {
+          "type": "p",
+          "html": "For the care of your baby and young children, we offer a range of gentle and effective care from the best brands:"
+        },
+        {
+          "type": "h2",
+          "html": "The parapharmacy care and beauty"
+        },
+        {
+          "type": "p",
+          "html": "For your skin and hair, we have selected the best brands of parapharmacy. Shampoos, masks and hair nutrients, day and night creams, lip balms, body lotion, soaps and shower gels, scrubs and masks… make your choice among your favorite brands:"
+        }
+      ],
+      "images": [
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-76-1.jpg",
+          "alt": "Parapharmacie",
+          "local": "/media/Mask-Group-76-1.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-113.png",
+          "alt": "aderma",
+          "local": "/media/Mask-Group-113.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/ducray-logo.png",
+          "alt": "ducray",
+          "local": "/media/ducray-logo-2.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-114.png",
+          "alt": "avene",
+          "local": "/media/Mask-Group-114.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-115.png",
+          "alt": "roche",
+          "local": "/media/Mask-Group-115.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/svr-logo.png",
+          "alt": "svr",
+          "local": "/media/svr-logo-2.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-116.png",
+          "alt": "apivita",
+          "local": "/media/Mask-Group-116.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-117.png",
+          "alt": "avent",
+          "local": "/media/Mask-Group-117.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Mask-Group-118.png",
+          "alt": "Klorane",
+          "local": "/media/Mask-Group-118.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/medela-logo.png",
+          "alt": "medela",
+          "local": "/media/medela-logo-2.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/MustelLogo.png",
+          "alt": "mustela",
+          "local": "/media/MustelLogo.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-170.jpg",
+          "alt": "apivita",
+          "local": "/media/Group-170.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-171.jpg",
+          "alt": "caudalie",
+          "local": "/media/Group-171.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image003.png",
+          "alt": "",
+          "local": "/media/image003.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Component-382-0.jpg",
+          "alt": "eucerin",
+          "local": "/media/Component-382-0.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-173.jpg",
+          "alt": "isdin",
+          "local": "/media/Group-173.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2025/02/image002.png",
+          "alt": "",
+          "local": "/media/image002.png"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-164.jpg",
+          "alt": "lierac",
+          "local": "/media/Group-164.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-165.jpg",
+          "alt": "widmer",
+          "local": "/media/Group-165.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-172.jpg",
+          "alt": "noir",
+          "local": "/media/Group-172.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-166.jpg",
+          "alt": "nuxe",
+          "local": "/media/Group-166.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-169.jpg",
+          "alt": "phyto",
+          "local": "/media/Group-169.jpg"
+        },
+        {
+          "src": "https://ginkgo.lu/wp-content/uploads/2022/02/Group-168.jpg",
+          "alt": "vichy",
+          "local": "/media/Group-168.jpg"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "/en/privacy-policy",
+      "title": "Privacy policy - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Politique de confidentialité"
+        },
+        {
+          "type": "p",
+          "html": "Ce site Web est la propriété de Pfeiffer Claude Josee Anne Marie<br/> Données de contact : Val Sainte Croix 3, L-1371 Luxembourg<br/> Adresse du siège social : Rue Joseph Hansen 15, L-1716 Luxembourg<br/> Téléphone : <a href=\"tel:+352222174\">+352 22 21 74</a><br/> Adresse mail : <a href=\"mailto:pharmacie@ginkgo.lu\">pharmacie@ginkgo.lu</a><br/> Numéro de TVA : LU21651466"
+        },
+        {
+          "type": "p",
+          "html": "Ci-après dénommé : la pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "En accédant à ce site Web et en l’utilisant, vous marquez explicitement votre accord avec les conditions générales suivantes."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Droits de propriété intellectuelle</strong><br/> Le contenu de ce site, y compris les marques, logos, dessins, données, noms de produits ou d’entreprises, textes, images, etc. sont protégés par des droits de propriété intellectuelle appartenant à la pharmacie ou à des tiers titulaires de ces droits."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Limite de responsabilité</strong><br/> Les informations contenues sur ce site Web sont de nature générale. Ces informations ne sont pas adaptées à des circonstances personnelles ou spécifiques et ne peuvent donc être considérées comme un conseil personnel, professionnel ou juridique à l’utilisateur.<br/> La pharmacie consent de gros efforts pour que les informations mises à disposition soient complètes, correctes, exhaustives et à jour. Malgré ses efforts, des erreurs peuvent figurer dans les informations mises à votre disposition. Si les informations diffusées sur le site comportaient des erreurs ou si certaines informations étaient indisponibles sur ou via le site, la pharmacie mettra tout en œuvre pour rectifier la situation.<br/> La pharmacie ne peut toutefois pas être tenue responsable de dommages directs ou indirects résultant de l’utilisation des informations mises à disposition sur le site Si vous veniez à constater des erreurs dans les informations mises à disposition sur le site, vous pouvez contacter le gestionnaire du site.<br/> Le contenu du site (y compris les liens) peut être adapté, modifié ou complété à tout moment sans avertissement ni communication aucune. La pharmacie n’octroie aucune garantie de bon fonctionnement du site Web et ne peut en aucune manière être tenue responsable d’un dysfonctionnement du site, d’une non-disponibilité provisoire du site ou de toute forme de dommages, directs ou indirects, pouvant résulter de l’accès au site et de l’usage du site. En aucun cas, la pharmacie ne pourra être tenue pour responsable envers quiconque, d’une manière directe, indirecte, spéciale ou autre, des dommages qui pourraient résulter de l’usage de ce site ou d’un autre, en raison notamment des connexions ou des liens hypertextes, incluant, sans limitation, toute perte, interruption du travail, détérioration de programmes ou de données sur le système informatique, le matériel, les logiciels, etc. de l’utilisateur.<br/> Le site Web peut contenir des liens hypertextes vers des sites ou pages Web de tiers ou y faire référence de manière indirecte. La présence de liens vers ces sites ou pages Web ne signifie nullement une approbation implicite du contenu de ces sites ou pages. La pharmacie déclare explicitement qu’elle n’a aucune autorité sur le contenu ou sur les autres caractéristiques de ces sites ou pages Web et ne peut en aucun cas être tenue responsable du contenu ou des caractéristiques desdits sites ou pages Web, ni de dommages pouvant résulter de leur utilisation."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Droit applicable et tribunaux compétents</strong><br/> Ce site est régi par le droit belge en vigueur. Seuls les tribunaux du Luxembourg sont compétents en cas de litige."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Politique de respect de la vie privée</strong><br/> Cette “Déclaration de confidentialité” régit le traitement de vos données à caractère personnel par la personne responsable du traitement : Pfeiffer Claude Josee Anne Marie<br/> Lisez attentivement cette déclaration de confidentialité, car elle contient des informations essentielles sur le traitement de vos données personnelles et les cookies utilisés. En fournissant vos données personnelles sur le site Web Pfeiffer Claude Josee Anne Marie et en utilisant les adresses e-mail indiquées sur ce site, vous déclarez avoir pris connaissance de cette déclaration de confidentialité et l’avoir expressément accepté ainsi que le traitement lui-même."
+        },
+        {
+          "type": "p",
+          "html": "<em>Données à caractère personnel</em><br/> Cette déclaration de confidentialité concerne vos données à caractère personnel. Le RGPD définit ces données comme « toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»); est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale. »"
+        },
+        {
+          "type": "p",
+          "html": "<em>Finalités du traitement</em><br/> La pharmacie recueille et traite les données à caractère personnel des clients en vue de la gestion des clients et des commandes (e.a. pour l’administration des clients, le suivi des commandes/livraisons, la facturation et le suivi de la solvabilité."
+        },
+        {
+          "type": "p",
+          "html": "<em>Base(s) juridique(s) du traitement</em><br/> Les données personnelles seront traitées via le site Web pour diverses raisons juridiques, conformément à l’article 6.1 du Règlement général sur la protection des données à caractère personnel 2016/679 du 27 avril 2016. Si l’on n’utilise qu’un formulaire de contact et une adresse électronique, le pharmacien fonde sa décision sur l’autorisation."
+        },
+        {
+          "type": "p",
+          "html": "<em>Transmission à des tiers</em><br/> Si cela s’avère nécessaire pour réaliser les objectifs visés, les données à caractère personnel seront échangées avec d’autres sociétés de la pharmacie sein de l’Espace Economique Européen."
+        },
+        {
+          "type": "p",
+          "html": "<em>Durée de conservation</em><br/> Les données à caractère personnel traitées en vue de la gestion des clients seront conservées le temps qu’il faut pour satisfaire les obligations légales (entre autres en ce qui concerne la comptabilité). Les données personnelles recueillies au moyen de cookies sont conservées pendant la session ou pour une durée plus longue si cela est nécessaire pour le fonctionnement du site. Lorsque les données sont conservées plus longtemps que la session, celles-ci sont anonymisées."
+        },
+        {
+          "type": "p",
+          "html": "<em>Droit d’accès, de rectification, d’effacement, de limitation, d’opposition et de cessibilité des données à caractère personnel</em><br/> Le client a en tout temps un droit d’accès à ses données à caractère personnel et il a le droit de les rectifier ou de les faire rectifier si elles s’avèrent être inexactes, de les faire effacer, de limiter leur traitement ou de s’opposer au traitement des données le concernant sur la base, y compris le profilage sur la base de ces dispositions. Le client a en outre le droit de demander qu’une copie (sous une forme structurée, courante et lisible par machine) de ses données à caractère personnel soient envoyées à une autre société. Pour exercer lesdits droits, le client est prié de :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corriger lui-même les paramètres de son compte client; et / ou",
+            "d’envoyer un e-mail à l’adresse suivante : <a href=\"mailto:pharmacie@ginkgo.lu\">pharmacie@ginkgo.lu</a>"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "<em>Plaintes</em><br/> Le client a le droit d’introduire une plainte auprès de la pharmacie. En outre, il a le droit d’introduire une plainte auprès une autorité de contrôle."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "en",
+      "path": "/en/general-conditions",
+      "title": "General conditions - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Conditions générales"
+        },
+        {
+          "type": "p",
+          "html": "Dispositions préliminaires<br/> Les présentes conditions générales (« Conditions générales ») s’appliquent lorsqu’un Client (tel que défini ci-après) utilise le site web disponible de la Pharmacie"
+        },
+        {
+          "type": "p",
+          "html": "<em>1. Application des présentes Conditions générales</em><br/> Les présentes Conditions générales contiennent les règles contractuelles concernant (a) l’utilisation du Site web et (b) la Commande ou la Réservation que le Client a effectuée par l’intermédiaire du Site web. Les présentes Conditions générales remplacent les conditions ou les accords convenus précédemment entre la Pharmacie et le Client, que ce soit sous forme orale ou écrite.<br/> Aucune autre condition ne s’appliquera jamais, sauf si la Pharmacie a accepté les conditions divergentes à l’avance, explicitement et par écrit.<br/> Veuillez prendre le temps de lire attentivement les présentes Conditions générales. Par le simple fait de consulter et d’utiliser le Site web, le Client reconnaît avoir pris connaissance des présentes Conditions générales et les accepte intégralement et de manière inconditionnelle. S’il n’est pas d’accord avec (une partie du) contenu des présentes Conditions générales, le Client n’est pas autorisé à utiliser le Site web."
+        },
+        {
+          "type": "p",
+          "html": "<em>2. Définitions</em><br/> 2.1 Commande : la commande d’un ou plusieurs Produit(s) via le Site web afin de conclure une vente à distance entre le Client et la Pharmacie.<br/> 2.2 Client : un Consommateur ou un Professionnel qui effectue une Commande ou une Réservation à la Pharmacie via le Site web.<br/> 2.3 Consommateur : toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou professionnelle.<br/> 2.4 Médicament sur ordonnance : un médicament à usage humain ou vétérinaire disponible uniquement sur ordonnance.<br/> 2.5 Professionnel : toute personne physique ou morale qui agit à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou professionnelle.<br/> 2.6 Réservation : la réservation d’un Médicament sur ordonnance sans obligation de paiement et sans obligation d’achat pour le Client. En cas de Réservation, le Médicament sur ordonnance doit toujours être retiré à la pharmacie même.<br/> 2.7 Produit en vente libre : (i) un médicament à usage humain qui n’est pas soumis à prescription médicale et (ii) les dispositifs médicaux (cf CNS)"
+        },
+        {
+          "type": "p",
+          "html": "<em>3. Produits proposés</em><br/> Compte tenu des dispositions légales applicables à la mise à disposition sur Internet des produits proposés dans une pharmacie ouverte au public, tous les produits de la Pharmacie ne sont pas disponibles sur le Site web. De cette façon, le Client ne peut pas commander de Médicaments sur ordonnance sur le Site web, mais peut uniquement les réserver. Une telle Réservation devra toujours être retirée à la Pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "<em>4. Compte du Client</em><br/> 4.1 Pour pouvoir effectuer une Commande ou une Réservation, le Client doit adresser sa commande ou sa réservation à l’aide du formulaire présent « Envoyez votre prescription » présent sur le site. Le Client n’est pas tenu de créer un compte sur le Site web. La Pharmacie ne peut être tenue responsable des pertes ou dommages résultant du non-respect par le Client du présent article 4. La Pharmacie se réserve le droit d’imposer des mesures d’identification supplémentaires (utilisation de la carte d’identité électronique, par exemple). En cas d’utilisation (présumée) illicite ou interdite, sans préjudice du droit de la Pharmacie de réclamer la réparation du préjudice subi au Client.<br/> 4.2 Le Client reconnaît qu’il n’est pas autorisé à se faire passer pour toute autre personne ou entité. Le Client n’est pas autorisé à contourner ou déplacer les mesures de sécurité techniques ou autres du Site web de quelque manière que ce soit."
+        },
+        {
+          "type": "p",
+          "html": "<em>5. Avertissement important avant de passer une Commande</em><br/> 5.1 Certains Produits proposés par la Pharmacie (en particulier, les Produits en vente libre) doivent être utilisés avec la plus grande prudence, après diagnostic et avis préalable d’un médecin ou d’un thérapeute agréé.<br/> 5.2 Les informations fournies par la Pharmacie sur le Site web sont compilées avec le plus grand soin, mais aussi régulièrement vérifiées et actualisées par un pharmacien. Elles sont toutefois transmises à titre purement informatif. Elles ne peuvent dès lors jamais être considérées comme un diagnostic ou un conseil personnalisé, car la Pharmacie ne peut pas connaître les antécédents médicaux complets de chaque Client. S’il souhaite un conseil personnalisé, le Client doit se rendre dans une pharmacie ou chez un médecin avant d’utiliser un Produit.<br/> 5.3 Comme décrit dans la déclaration de confidentialité, la Pharmacie conserve des informations sur les précédentes commandes du Client, mais cela ne signifie pas que la conservation de l’historique des achats donnera lieu à un avertissement automatique (par exemple en ce qui concerne la dose ou l’interaction avec d’autres médicaments).<br/> 5.4 Si le Client a des doutes sur l’adéquation d’un Produit particulier, la Pharmacie lui conseille de ne pas commander le Produit, d’annuler la Commande ou, si celle-ci a déjà été livrée, de ne pas (continuer à) utiliser le Produit sans avoir consulté un pharmacien ou un médecin qualifié.<br/> 5.5 La Pharmacie tient à souligner que les règles juridiques et déontologiques applicables au pharmacien titulaire peuvent entraîner la non-exécution d’une Commande passée si, de l’avis du pharmacien titulaire, celle-ci n’est pas conforme aux règles précitées.<br/> 5.6 L’emballage et les informations sur l’emballage des Produits sont disponibles en français et en néerlandais."
+        },
+        {
+          "type": "p",
+          "html": "<em>6. Commande/Réservation</em><br/> 6.1 Le Client est tenu de communiquer à la Pharmacie de manière correcte et opportune toutes les informations le concernant, son âge ou son sexe par exemple, ou toute autre information médicale pertinente. La Pharmacie ne peut en aucun cas être tenue responsable de l’inexactitude ou du non-encodage par le Client des données relatives à la destination, des données à caractère personnel ou des informations médicales.<br/> 6.5 Si le Client effectue une Réservation, le Médicament sur ordonnance concerné est réservé dans la pharmacie pendant une période maximale de 1 mois après la Réservation (« Période de réservation »). Si le Client retire le Médicament sur ordonnance concerné après la Période de réservation, la Pharmacie ne peut pas garantir que le Médicament sur ordonnance sera en stock."
+        },
+        {
+          "type": "p",
+          "html": "<em>7. Prix</em><br/> En cas de Réservation, le prix indiqué sur le Site web au moment de la Réservation peut différer du prix à payer par le Client au moment de l’achat effectif en Pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "<em>8. Droit de rétractation</em><br/> Dans certains cas, le Consommateur ne dispose pas d’un droit de rétractation, notamment pour les marchandises susceptibles de se détériorer ou de se périmer rapidement, ou pour les marchandises commandées spécifiquement pour le client."
+        },
+        {
+          "type": "p",
+          "html": "<em>9. Garantie</em><br/> 9.1 Garantie légale. En ce qui concerne les biens de consommation (c’est-à-dire tout bien meuble corporel comme une brosse à dents électrique), le Consommateur dispose d’une garantie légale pour tout défaut de conformité qui est présent lors de la livraison du bien de consommation et qui apparaît dans un délai de deux ans à compter de la livraison. Si le Consommateur constate un défaut, il doit en informer la Pharmacie par écrit ou par téléphone dans les plus brefs délais et, en tout cas, dans les 2 mois qui suivent sa découverte (« Délai de notification »). Si le Consommateur n’informe pas la Pharmacie du défaut dans le Délai de notification, celui-ci n’a plus la possibilité d’invoquer la garantie légale. En tout état de cause, le Consommateur doit s’abstenir de toute utilisation ultérieure du bien qui aggraverait le dommage, et ce, dès la découverte du défaut.<br/> 9.2 Clause de non-responsabilité. La Pharmacie ne donne aucune garantie quant à la disponibilité du Site web ou à l’absence de virus et/ou d’autres éléments ou programmes nuisibles lors de l’utilisation de ce Site web, ou quant au fait que les liens de ce Site web vers d’autres sites web soient exempts de virus et/ou d’autres éléments ou programmes nuisibles. En outre, la Pharmacie décline toute responsabilité et tout dommage à cet égard. Le renvoi (lien) vers d’autres sites web ne vaut en aucun cas recommandation ou garantie (y compris pour l’exactitude et l’exhaustivité de leur contenu, leur disponibilité, leur absence de virus) en ce qui concerne ces autres sites web.<br/> 9.3 Service après-vente. Pour toute question ou remarque concernant sa Réservation, le Client peut prendre contact avec la Pharmacie."
+        },
+        {
+          "type": "p",
+          "html": "<em>10. Responsabilité</em><br/> 10.1 La Pharmacie ne peut être tenue responsable des informations erronées figurant sur la notice ou dans les instructions d’utilisation du fabricant. De même, la Pharmacie ne peut être tenue responsable des problèmes de tolérance et d’adéquation des Produits (sauf si le Consommateur a informé la Pharmacie d’un usage spécifique recherché par le Consommateur au moment de sa Commande et que la Pharmacie l’a accepté). Si le Client développe une réaction allergique ou souffre d’effets indésirables lors de l’utilisation d’un Produit, ou s’il pense avoir besoin d’une assistance médicale, il doit contacter son médecin traitant ou chercher une autre assistance médicale le plus rapidement possible. La responsabilité de la Pharmacie ne peut pas non plus être engagée si le défaut est dû au manque de soins, au non-respect par négligence des instructions et des conditions d’utilisation du fabricant, à l’inattention ou à la négligence du Client.<br/> 10.2 La responsabilité de la Pharmacie ne peut pas non plus être engagée pour les éventuels changements apportés par le fabricant dans les Produits.<br/> 10.3 La Pharmacie se réserve le droit d’interrompre ou d’arrêter le Site web à tout moment et ne peut en aucun cas être tenue responsable des dommages ou autres conséquences qui y seraient liés.<br/> 10.4 Aucune disposition des présentes Conditions générales n’a pour objet de limiter ou d’exclure la responsabilité de la Pharmacie (i) vis-à-vis du Client pour sa faute intentionnelle et (ii) vis-vis des Consommateurs pour sa faute grave ou en cas de décès ou de dommages corporels."
+        },
+        {
+          "type": "p",
+          "html": "<em>11. Force majeure</em><br/> Dans les cas où la Pharmacie est confrontée à la Force majeure, elle en informera immédiatement le Client en indiquant la durée estimée de la Force majeure.<br/> Sont notamment considérés comme « Force majeure » : la guerre ou l’état de guerre, le blocus, les sanctions internationales ou l’embargo, les accidents graves, l’incendie, l’inondation, la grève ou le lock-out, les interruptions de transport, les pannes de machines, la défaillance des sous-traitants, des fournisseurs ou des prestataires, les défauts des systèmes logiciels ou matériels des parties susmentionnées, le décès ou la maladie grave de membres clés du personnel, les mesures gouvernementales, etc.<br/> En général, toute situation indépendante de la volonté de la Pharmacie, par laquelle l’exécution normale des obligations de la Pharmacie a été largement empêchée ou a été rendue impossible, est considérée comme Force majeure."
+        },
+        {
+          "type": "p",
+          "html": "<em>12. Droits de propriété intellectuelle</em><br/> Les textes, photos, illustrations, films, images, données, Fiches produits, logiciels, dénominations, noms commerciaux et noms de domaine, marques, logos et autres composants des éléments disponibles sur le Site web (« Informations ») et tous les droits de propriété intellectuelle s’y rapportant appartiennent à la Pharmacie ou à des tiers. Sans autorisation écrite et préalable de la Pharmacie, il est interdit de stocker (à part si c’est nécessaire pour pouvoir regarder le Site web), reproduire, modifier, rendre publiques, distribuer ou transmettre, vendre ou transférer par tout autre moyen les Informations fournies ou de conférer des droits sur celles-ci à des tiers par tout autre moyen."
+        },
+        {
+          "type": "p",
+          "html": "<em>13. Protection de la vie privée</em><br/> 13.1 La Pharmacie traite toutes les données à caractère personnel concernant le Client conformément à sa Politique de Confidentialité, qui est disponible ci-dessus."
+        },
+        {
+          "type": "p",
+          "html": "<em>14. Nullité</em><br/> La nullité de l’une des clauses (ou d’une partie de celle-ci) des Conditions générales n’implique pas la nullité des autres clauses des Conditions générales. Les autres parties ou clauses des Conditions générales restent en vigueur et exécutoires comme si ces parties ou ces clauses nulles n’étaient pas incluses dans les présentes Conditions générales. Si une clause est nulle, les parties s’engagent à négocier de bonne foi une nouvelle clause qui se conforme autant que possible à l’esprit de la clause originale."
+        },
+        {
+          "type": "p",
+          "html": "<em>15. Droit applicable et tribunal compétent</em><br/> Tout litige relatif aux présentes Conditions générales sera exclusivement soumis au droit luxembourgeois. Tous les litiges découlant des présentes Conditions générales seront soumis à la compétence exclusive des tribunaux du Luxembourg."
+        },
+        {
+          "type": "p",
+          "html": "<em>16 Modifications aux présentes Conditions générales</em><br/> La Pharmacie se réserve le droit de mettre à jour les présentes Conditions générales de temps à autre afin de les adapter aux évolutions légales, techniques ou commerciales, dont la publication sur le Site web vaudra notification de ces modifications. Les Conditions générales modifiées seront mises en œuvre à la date à laquelle ces modifications seront mises à disposition sur le Site web (la « Notification »). La poursuite de l’utilisation du Site web sera considérée comme l’acceptation pleine et inconditionnelle des Conditions générales modifiées pour Réservation de Médicaments sur ordonnance via le Site web à compter de la Notification.<br/> Le Client peut voir la date de la dernière modification des présentes Conditions générales en se reportant à la date de la « dernière mise à jour » affichée en haut des présentes Conditions générales."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "en",
+      "path": "/en/disclaimer",
+      "title": "Disclaimer - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Disclaimer"
+        },
+        {
+          "type": "p",
+          "html": "Ce site Web est la propriété de Pfeiffer Claude Josee Anne Marie<br/> Données de contact : Val Sainte Croix 3, L-1371 Luxembourg<br/> Adresse du siège social : Rue Joseph Hansen 15, L-1716 Luxembourg<br/> Téléphone : <a href=\"tel:+352222174\">+352 22 21 74</a><br/> Adresse mail : <a href=\"mailto:pharmacie@ginkgo.lu\">pharmacie@ginkgo.lu</a><br/> Numéro de TVA : LU21651466"
+        },
+        {
+          "type": "p",
+          "html": "Bienvenue sur le site web www.ginkgo.lu. Lisez ces Conditions Générales attentivement. Elles contiennent les règles qui s’appliquent à l’accès à la partie publique de notre site (utilisateurs non-enregistrés).<br/> En visitant notre site Internet et en l’utilisant tout utilisateur s’engage à respecter les présentes Conditions Générales et il / elle accepte leur force contraignante."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Propriété intellectuelle</strong><br/> Le contenu du site internet, y inclus les marques, logos, les éléments et illustrations graphiques, les données, les dénominations de produits et de société, les textes, les images, etc, sont et resteront la propriété exclusive de la pharmacie Ginkgo ou de certains tiers avec qui pharmacie Ginkgo a conclu des contrats de licence ou d’utilisation."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Limitation de responsabilité</strong><br/> L’information sur ce site est de nature général. L’information n’est pas adaptée à des situations spécifiques ni individualisée et ne peut donc en aucun cas constituer un avis personnel ou juridique à un utilisateur individuel.<br/> La pharmacie Ginkgo consacre la plus grande attention et le plus grand soin possibles au contenu de son site internet. Ce contenu est toutefois sujet à des modifications, peut être supprimé de tout temps et est mis à disposition de l’utilisateur sans garanties explicites ou implicites concernant son exactitude.<br/> La pharmacie Ginkgo n’est pas responsable des dégâts directs ou indirects causés par l’utilisation du contenu de son site internet. Si vous constatez la présence d’inexactitudes dans l’information communiqué sur notre site internet, nous vous prions de contacter le responsable du site internet.<br/> Le contenu du site internet (y inclus les hyperliens) est sujet à des modifications et peut être supprimé de tout temps.<br/> La pharmacie Ginkgo ne peut garantir un fonctionnement parfait de son site internet, ni un accès ininterrompu à son site internet et des problèmes de fonctionnement où d’accès ne pourront en aucun cas entraîner de sanction ou d’indemnité, directe ou indirecte dans son chef.<br/> La pharmacie Ginkgo ne peut être tenu responsable de toute erreur ou omission, ni des résultats obtenus par suite de l’utilisation de ce site ou d’un autre.<br/> Le site internet peut contenir des liens vers des sites qui ne sont pas gérés, abrités ou entretenus par la pharmacie Ginkgo. La présence de liens vers ces sites n’implique en aucun cas l’accord de la pharmacie Ginkgo avec le contenu de ces sites internet. La pharmacie Ginkgo n’est en aucun cas responsable du contenu ou d’autres caractéristiques de tels sites et ne peut être tenu responsable de ce contenu, de ces caractéristiques ou de quelque dommage que ce soit lié à l’utilisation de ces sites internet."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Droit applicable et tribunaux compétents</strong><br/> Ces conditions générales sont régies, interprétées et exécutées conformément au droit luxembourgeois, seul droit applicable en cas de litige.<br/> Remarque : En cas d’achat à partir de l’étranger, le client devient importateur dans son pays ; il devra alors acquitter toutes les taxes locales selon la législation en vigueur dans son pays."
+        },
+        {
+          "type": "p",
+          "html": "<strong>L’utilisation des cookies</strong><br/> Lors de votre visite, des cookies peuvent être installés sur le disque dur de votre ordinateur et ceci afin d’améliorer le service offert par le site internet pour des utilisateurs lors des prochaines visites au site internet. Ces petits fichiers ou cookies ne sont pas utilisés à des fins d’analyse de votre comportement en ligne sur d’autres sites internet. Vous pouvez désactiver l’utilisation de cookies ou adapter le niveau des alertes et demandes d’autorisation envoyées avant l’installation des cookies dans les paramètres de votre moteur de recherche. Vous trouverez plus d’information dans la section aide de votre moteur de recherche."
+        }
+      ],
+      "images": []
+    },
+    {
+      "lang": "en",
+      "path": "/en/cookie-policy",
+      "title": "Cookie policy - GinkGo",
+      "description": "",
+      "blocks": [
+        {
+          "type": "h1",
+          "html": "Politique en matière de cookies"
+        },
+        {
+          "type": "p",
+          "html": "Nous (Pharmacie Ginkgo., dont le siège social est établi Rue Joseph Hansen 15, L-1716 Luxembourg, inscrite à la TVA sous le numéro LU21651466) souhaitons vous informer de la façon dont nous utilisons les cookies sur notre site web (www.ginkgo.lu) et comment vous pouvez les gérer."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Que sont les cookies ?</strong><br/> Un cookie est un petit fichier envoyé par le serveur de Pharmacie Ginkgo et placé sur le disque dur de votre ordinateur. Nous seuls pouvons lire les informations enregistrées par ces cookies, et ce, uniquement pendant la durée de votre visite sur notre site web."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Pourquoi utilisons-nous des cookies ?</strong><br/> Notre site web utilise des cookies et d’autres technologies similaires afin de distinguer vos préférences d’utilisation de celles des autres utilisateurs de notre site web. Cela nous permet de vous proposer une expérience d’utilisation plus conviviale lors de votre visite sur notre site web et d’optimiser celui-ci.<br/> À la suite des récentes modifications législatives, tous les sites web qui s’adressent à certaines parties de l’Union européenne sont obligés de demander votre accord pour l’utilisation et la sauvegarde de cookies et d’autres technologies similaires sur votre ordinateur ou appareil mobile. La présente politique en matière de cookies vous fournit des informations claires et complètes concernant les cookies que nous utilisons et leur but."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Les types de cookies</strong><br/> Bien qu’il existe plusieurs types de cookies, qui se distinguent par leur fonction, leur origine ou leur durée de conservation, la législation distingue principalement les cookies fonctionnels ou techniquement nécessaires d’une part et tous les autres cookies d’autre part."
+        },
+        {
+          "type": "p",
+          "html": "Cookies indispensables<br/> Ces cookies sont requis pour permettre la visite de nos sites Internet et l’utilisation de certaines de leurs parties. Ils vous permettent par exemple de naviguer entre les différentes rubriques du site Internet ou de remplir des formulaires. Si vous refusez ces cookies, certaines rubriques du site Internet ne fonctionneront pas de manière optimale, voire pas du tout."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Cookies fonctionnels</strong><br/> Les cookies fonctionnels sont des cookies destinés à faciliter le fonctionnement de nos sites Internet, à en rendre l’utilisation plus agréable pour le visiteur et à vous donner une expérience de navigation plus personnalisée. Il s’agit par exemple des cookies qui retiennent vos préférences."
+        },
+        {
+          "type": "p",
+          "html": "<strong>Cookies tiers</strong><br/> Le site Internet contient également des éléments émanant de tiers, tels que des services audiovisuels, des boutons propres aux médias sociaux ou des publicités."
+        },
+        {
+          "type": "table",
+          "html": "<table><tr><td><strong>Nom</strong></td><td><strong>Fonction</strong></td><td><strong>Durée de conservation</strong></td></tr><tr><td>Google Analytics</td><td>Ces cookies recueillent des informations analytiques sur nos clients en ligne.</td><td>24 mois</td></tr><tr><td>Google Tag Manager</td><td>Ces cookies sont utilisés pour tester et déboguer le Google Tag Manager.</td><td>Après la session</td></tr></table>"
+        },
+        {
+          "type": "p",
+          "html": "Pour les cookies placés par des tiers (notamment par Google Analytics), nous vous invitons à consulter les déclarations de ces tiers sur leurs sites web respectifs. Attention : nous n’avons aucune influence sur le contenu de ces déclarations ni sur le contenu des cookies de ces tiers : Cookies Google Analytics."
+        },
+        {
+          "type": "p",
+          "html": "Pour toute autre question ou remarque relative au traitement de vos données à caractère personnel, contactez-nous par e-mail à l’adresse pharmacie@ginkgo.lu. Vous pouvez aussi envoyer un courrier à l’adresse postale suivante : À l’attention de Pharmacie Ginkgo – Data Protection Officer, Val Sainte Croix 3, L-1371 Luxembourg.<br/> Retrouvez plus d’informations sur les cookies sur : http://www.allaboutcookies.org/.<br/> Retrouvez plus d’informations sur la publicité comportementale en ligne et la confidentialité en ligne sur : http://www.youronlinechoices.eu/."
+        }
+      ],
+      "images": []
+    }
+  ]
+}
