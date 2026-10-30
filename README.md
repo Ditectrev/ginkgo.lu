@@ -36,3 +36,4 @@ Vercel’s request body limit can reject prescription uploads near 4.5 MB even t
 ## Deploy
 
 The project uses the Next.js framework defaults (`vercel.json`). Import the repository in Vercel and add the variables above. No deploy token is stored in this repository.
+
