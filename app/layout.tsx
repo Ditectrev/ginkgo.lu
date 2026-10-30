@@ -6,6 +6,7 @@ import { CookieBanner } from "@/components/CookieBanner";
 import { Footer } from "@/components/Footer";
 import { Header, LangAttr, SkipLink } from "@/components/Header";
 import { ScrollToTop } from "@/components/ScrollToTop";
+import { siteUrl } from "@/lib/site";
 import "./globals.css";
 
 const roboto = Roboto({
@@ -23,6 +24,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
   title: "Pharmacie Val Sainte-Croix Luxembourg - Ginkgo",
   description:
     "La pharmacie Ginkgo vous accueille en 6 langues du lundi au samedi. Pharmacie conseil maman-bébé, Test Covid, Sudoscan, point conseil asthme, parapharmacie, blistérisation de traitement, location de tire-lait, compression médicale…",

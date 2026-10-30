@@ -1,7 +1,6 @@
 import type { MetadataRoute } from "next";
 import { alternatePath, getPages } from "@/lib/content";
-
-const base = process.env.NEXT_PUBLIC_SITE_URL || "https://ginkgo.lu";
+import { absoluteUrl } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return getPages().map((page) => {
@@ -9,11 +8,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const fr = page.lang === "fr" ? page.path : other;
     const en = page.lang === "en" ? page.path : other;
     return {
-      url: new URL(page.path, base).toString(),
+      url: absoluteUrl(page.path),
       alternates: {
         languages: {
-          fr: new URL(fr, base).toString(),
-          en: new URL(en, base).toString(),
+          fr: absoluteUrl(fr),
+          en: absoluteUrl(en),
+          "x-default": absoluteUrl(fr),
         },
       },
     };

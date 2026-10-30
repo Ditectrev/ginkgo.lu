@@ -6,6 +6,7 @@ import { PrescriptionForm } from "@/components/PrescriptionForm";
 import { ServicesPage } from "@/components/ServicesPage";
 import { Html } from "@/components/Html";
 import { alternatePath, getPage, getPages } from "@/lib/content";
+import { absoluteUrl } from "@/lib/site";
 
 type Params = { slug?: string[] };
 
@@ -34,8 +35,12 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
     title: page.title,
     description: page.description || undefined,
     alternates: {
-      canonical: path,
-      languages: { fr, en },
+      canonical: absoluteUrl(path),
+      languages: {
+        fr: absoluteUrl(fr),
+        en: absoluteUrl(en),
+        "x-default": absoluteUrl(fr),
+      },
     },
   };
 }
